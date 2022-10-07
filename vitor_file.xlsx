@@ -1,0 +1,2172 @@
+eiu_country,eiu,year,extended_country_name,GWn,cown,in_GW_system
+Afghanistan,3.06,2006,Afghanistan,700,700,TRUE
+Afghanistan,3.02,2008,Afghanistan,700,700,TRUE
+Afghanistan,2.48,2010,Afghanistan,700,700,TRUE
+Afghanistan,2.48,2011,Afghanistan,700,700,TRUE
+Afghanistan,2.48,2012,Afghanistan,700,700,TRUE
+Afghanistan,2.48,2013,Afghanistan,700,700,TRUE
+Afghanistan,2.77,2014,Afghanistan,700,700,TRUE
+Afghanistan,2.77,2015,Afghanistan,700,700,TRUE
+Afghanistan,2.55,2016,Afghanistan,700,700,TRUE
+Afghanistan,2.55,2017,Afghanistan,700,700,TRUE
+Afghanistan,2.97,2018,Afghanistan,700,700,TRUE
+Afghanistan,2.85,2019,Afghanistan,700,700,TRUE
+Afghanistan,2.85,2020,Afghanistan,700,700,TRUE
+Albania,5.91,2006,Albania,339,339,TRUE
+Albania,5.91,2008,Albania,339,339,TRUE
+Albania,5.86,2010,Albania,339,339,TRUE
+Albania,5.81,2011,Albania,339,339,TRUE
+Albania,5.67,2012,Albania,339,339,TRUE
+Albania,5.67,2013,Albania,339,339,TRUE
+Albania,5.67,2014,Albania,339,339,TRUE
+Albania,5.91,2015,Albania,339,339,TRUE
+Albania,5.91,2016,Albania,339,339,TRUE
+Albania,5.98,2017,Albania,339,339,TRUE
+Albania,5.98,2018,Albania,339,339,TRUE
+Albania,5.89,2019,Albania,339,339,TRUE
+Albania,6.08,2020,Albania,339,339,TRUE
+Algeria,3.17,2006,Algeria,615,615,TRUE
+Algeria,3.32,2008,Algeria,615,615,TRUE
+Algeria,3.44,2010,Algeria,615,615,TRUE
+Algeria,3.44,2011,Algeria,615,615,TRUE
+Algeria,3.83,2012,Algeria,615,615,TRUE
+Algeria,3.83,2013,Algeria,615,615,TRUE
+Algeria,3.83,2014,Algeria,615,615,TRUE
+Algeria,3.95,2015,Algeria,615,615,TRUE
+Algeria,3.56,2016,Algeria,615,615,TRUE
+Algeria,3.56,2017,Algeria,615,615,TRUE
+Algeria,3.5,2018,Algeria,615,615,TRUE
+Algeria,4.01,2019,Algeria,615,615,TRUE
+Algeria,3.77,2020,Algeria,615,615,TRUE
+Angola,2.41,2006,Angola,540,540,TRUE
+Angola,3.35,2008,Angola,540,540,TRUE
+Angola,3.32,2010,Angola,540,540,TRUE
+Angola,3.32,2011,Angola,540,540,TRUE
+Angola,3.35,2012,Angola,540,540,TRUE
+Angola,3.35,2013,Angola,540,540,TRUE
+Angola,3.35,2014,Angola,540,540,TRUE
+Angola,3.35,2015,Angola,540,540,TRUE
+Angola,3.4,2016,Angola,540,540,TRUE
+Angola,3.62,2017,Angola,540,540,TRUE
+Angola,3.62,2018,Angola,540,540,TRUE
+Angola,3.72,2019,Angola,540,540,TRUE
+Angola,3.66,2020,Angola,540,540,TRUE
+Argentina,6.63,2006,Argentina,160,160,TRUE
+Argentina,6.63,2008,Argentina,160,160,TRUE
+Argentina,6.84,2010,Argentina,160,160,TRUE
+Argentina,6.84,2011,Argentina,160,160,TRUE
+Argentina,6.84,2012,Argentina,160,160,TRUE
+Argentina,6.84,2013,Argentina,160,160,TRUE
+Argentina,6.84,2014,Argentina,160,160,TRUE
+Argentina,7.02,2015,Argentina,160,160,TRUE
+Argentina,6.96,2016,Argentina,160,160,TRUE
+Argentina,6.96,2017,Argentina,160,160,TRUE
+Argentina,7.02,2018,Argentina,160,160,TRUE
+Argentina,7.02,2019,Argentina,160,160,TRUE
+Argentina,6.95,2020,Argentina,160,160,TRUE
+Armenia,4.15,2006,Armenia,371,371,TRUE
+Armenia,4.09,2008,Armenia,371,371,TRUE
+Armenia,4.09,2010,Armenia,371,371,TRUE
+Armenia,4.09,2011,Armenia,371,371,TRUE
+Armenia,4.09,2012,Armenia,371,371,TRUE
+Armenia,4.02,2013,Armenia,371,371,TRUE
+Armenia,4.13,2014,Armenia,371,371,TRUE
+Armenia,4,2015,Armenia,371,371,TRUE
+Armenia,3.88,2016,Armenia,371,371,TRUE
+Armenia,4.11,2017,Armenia,371,371,TRUE
+Armenia,4.79,2018,Armenia,371,371,TRUE
+Armenia,5.54,2019,Armenia,371,371,TRUE
+Armenia,5.35,2020,Armenia,371,371,TRUE
+Australia,9.09,2006,Australia,900,900,TRUE
+Australia,9.09,2008,Australia,900,900,TRUE
+Australia,9.22,2010,Australia,900,900,TRUE
+Australia,9.22,2011,Australia,900,900,TRUE
+Australia,9.22,2012,Australia,900,900,TRUE
+Australia,9.13,2013,Australia,900,900,TRUE
+Australia,9.01,2014,Australia,900,900,TRUE
+Australia,9.01,2015,Australia,900,900,TRUE
+Australia,9.01,2016,Australia,900,900,TRUE
+Australia,9.09,2017,Australia,900,900,TRUE
+Australia,9.09,2018,Australia,900,900,TRUE
+Australia,9.09,2019,Australia,900,900,TRUE
+Australia,8.96,2020,Australia,900,900,TRUE
+Austria,8.69,2006,Austria,305,305,TRUE
+Austria,8.49,2008,Austria,305,305,TRUE
+Austria,8.49,2010,Austria,305,305,TRUE
+Austria,8.49,2011,Austria,305,305,TRUE
+Austria,8.62,2012,Austria,305,305,TRUE
+Austria,8.48,2013,Austria,305,305,TRUE
+Austria,8.54,2014,Austria,305,305,TRUE
+Austria,8.54,2015,Austria,305,305,TRUE
+Austria,8.41,2016,Austria,305,305,TRUE
+Austria,8.42,2017,Austria,305,305,TRUE
+Austria,8.29,2018,Austria,305,305,TRUE
+Austria,8.29,2019,Austria,305,305,TRUE
+Austria,8.16,2020,Austria,305,305,TRUE
+Azerbaijan,3.31,2006,Azerbaijan,373,373,TRUE
+Azerbaijan,3.19,2008,Azerbaijan,373,373,TRUE
+Azerbaijan,3.15,2010,Azerbaijan,373,373,TRUE
+Azerbaijan,3.15,2011,Azerbaijan,373,373,TRUE
+Azerbaijan,3.15,2012,Azerbaijan,373,373,TRUE
+Azerbaijan,3.06,2013,Azerbaijan,373,373,TRUE
+Azerbaijan,2.83,2014,Azerbaijan,373,373,TRUE
+Azerbaijan,2.71,2015,Azerbaijan,373,373,TRUE
+Azerbaijan,2.65,2016,Azerbaijan,373,373,TRUE
+Azerbaijan,2.65,2017,Azerbaijan,373,373,TRUE
+Azerbaijan,2.65,2018,Azerbaijan,373,373,TRUE
+Azerbaijan,2.75,2019,Azerbaijan,373,373,TRUE
+Azerbaijan,2.68,2020,Azerbaijan,373,373,TRUE
+Bahrain,3.53,2006,Bahrain,692,692,TRUE
+Bahrain,3.38,2008,Bahrain,692,692,TRUE
+Bahrain,3.49,2010,Bahrain,692,692,TRUE
+Bahrain,2.92,2011,Bahrain,692,692,TRUE
+Bahrain,2.53,2012,Bahrain,692,692,TRUE
+Bahrain,2.87,2013,Bahrain,692,692,TRUE
+Bahrain,2.87,2014,Bahrain,692,692,TRUE
+Bahrain,2.79,2015,Bahrain,692,692,TRUE
+Bahrain,2.79,2016,Bahrain,692,692,TRUE
+Bahrain,2.71,2017,Bahrain,692,692,TRUE
+Bahrain,2.71,2018,Bahrain,692,692,TRUE
+Bahrain,2.55,2019,Bahrain,692,692,TRUE
+Bahrain,2.49,2020,Bahrain,692,692,TRUE
+Bangladesh,6.11,2006,Bangladesh,771,771,TRUE
+Bangladesh,5.52,2008,Bangladesh,771,771,TRUE
+Bangladesh,5.87,2010,Bangladesh,771,771,TRUE
+Bangladesh,5.86,2011,Bangladesh,771,771,TRUE
+Bangladesh,5.86,2012,Bangladesh,771,771,TRUE
+Bangladesh,5.86,2013,Bangladesh,771,771,TRUE
+Bangladesh,5.78,2014,Bangladesh,771,771,TRUE
+Bangladesh,5.73,2015,Bangladesh,771,771,TRUE
+Bangladesh,5.73,2016,Bangladesh,771,771,TRUE
+Bangladesh,5.43,2017,Bangladesh,771,771,TRUE
+Bangladesh,5.57,2018,Bangladesh,771,771,TRUE
+Bangladesh,5.88,2019,Bangladesh,771,771,TRUE
+Bangladesh,5.99,2020,Bangladesh,771,771,TRUE
+Belarus,3.34,2006,Belarus (Byelorussia),370,370,TRUE
+Belarus,3.34,2008,Belarus (Byelorussia),370,370,TRUE
+Belarus,3.34,2010,Belarus (Byelorussia),370,370,TRUE
+Belarus,3.16,2011,Belarus (Byelorussia),370,370,TRUE
+Belarus,3.04,2012,Belarus (Byelorussia),370,370,TRUE
+Belarus,3.04,2013,Belarus (Byelorussia),370,370,TRUE
+Belarus,3.69,2014,Belarus (Byelorussia),370,370,TRUE
+Belarus,3.62,2015,Belarus (Byelorussia),370,370,TRUE
+Belarus,3.54,2016,Belarus (Byelorussia),370,370,TRUE
+Belarus,3.13,2017,Belarus (Byelorussia),370,370,TRUE
+Belarus,3.13,2018,Belarus (Byelorussia),370,370,TRUE
+Belarus,2.48,2019,Belarus (Byelorussia),370,370,TRUE
+Belarus,2.59,2020,Belarus (Byelorussia),370,370,TRUE
+Belgium,8.15,2006,Belgium,211,211,TRUE
+Belgium,8.16,2008,Belgium,211,211,TRUE
+Belgium,8.05,2010,Belgium,211,211,TRUE
+Belgium,8.05,2011,Belgium,211,211,TRUE
+Belgium,8.05,2012,Belgium,211,211,TRUE
+Belgium,8.05,2013,Belgium,211,211,TRUE
+Belgium,7.93,2014,Belgium,211,211,TRUE
+Belgium,7.93,2015,Belgium,211,211,TRUE
+Belgium,7.77,2016,Belgium,211,211,TRUE
+Belgium,7.78,2017,Belgium,211,211,TRUE
+Belgium,7.78,2018,Belgium,211,211,TRUE
+Belgium,7.64,2019,Belgium,211,211,TRUE
+Belgium,7.51,2020,Belgium,211,211,TRUE
+Benin,6.16,2006,Benin,434,434,TRUE
+Benin,6.06,2008,Benin,434,434,TRUE
+Benin,6.17,2010,Benin,434,434,TRUE
+Benin,6.06,2011,Benin,434,434,TRUE
+Benin,6,2012,Benin,434,434,TRUE
+Benin,5.87,2013,Benin,434,434,TRUE
+Benin,5.65,2014,Benin,434,434,TRUE
+Benin,5.72,2015,Benin,434,434,TRUE
+Benin,5.67,2016,Benin,434,434,TRUE
+Benin,5.61,2017,Benin,434,434,TRUE
+Benin,5.74,2018,Benin,434,434,TRUE
+Benin,5.09,2019,Benin,434,434,TRUE
+Benin,4.58,2020,Benin,434,434,TRUE
+Bhutan,2.62,2006,Bhutan,760,760,TRUE
+Bhutan,4.3,2008,Bhutan,760,760,TRUE
+Bhutan,4.68,2010,Bhutan,760,760,TRUE
+Bhutan,4.57,2011,Bhutan,760,760,TRUE
+Bhutan,4.65,2012,Bhutan,760,760,TRUE
+Bhutan,4.82,2013,Bhutan,760,760,TRUE
+Bhutan,4.87,2014,Bhutan,760,760,TRUE
+Bhutan,4.93,2015,Bhutan,760,760,TRUE
+Bhutan,4.93,2016,Bhutan,760,760,TRUE
+Bhutan,5.08,2017,Bhutan,760,760,TRUE
+Bhutan,5.3,2018,Bhutan,760,760,TRUE
+Bhutan,5.3,2019,Bhutan,760,760,TRUE
+Bhutan,5.71,2020,Bhutan,760,760,TRUE
+Bolivia,5.98,2006,Bolivia,145,145,TRUE
+Bolivia,6.15,2008,Bolivia,145,145,TRUE
+Bolivia,5.92,2010,Bolivia,145,145,TRUE
+Bolivia,5.84,2011,Bolivia,145,145,TRUE
+Bolivia,5.84,2012,Bolivia,145,145,TRUE
+Bolivia,5.79,2013,Bolivia,145,145,TRUE
+Bolivia,5.79,2014,Bolivia,145,145,TRUE
+Bolivia,5.75,2015,Bolivia,145,145,TRUE
+Bolivia,5.63,2016,Bolivia,145,145,TRUE
+Bolivia,5.49,2017,Bolivia,145,145,TRUE
+Bolivia,5.7,2018,Bolivia,145,145,TRUE
+Bolivia,4.84,2019,Bolivia,145,145,TRUE
+Bolivia,5.08,2020,Bolivia,145,145,TRUE
+Bosnia and Hercegovina,5.78,2006,Bosnia-Herzegovina,346,346,TRUE
+Bosnia and Hercegovina,5.7,2008,Bosnia-Herzegovina,346,346,TRUE
+Bosnia and Hercegovina,5.32,2010,Bosnia-Herzegovina,346,346,TRUE
+Bosnia and Hercegovina,5.24,2011,Bosnia-Herzegovina,346,346,TRUE
+Bosnia and Hercegovina,5.11,2012,Bosnia-Herzegovina,346,346,TRUE
+Bosnia and Hercegovina,5.02,2013,Bosnia-Herzegovina,346,346,TRUE
+Bosnia and Hercegovina,4.78,2014,Bosnia-Herzegovina,346,346,TRUE
+Bosnia and Hercegovina,4.83,2015,Bosnia-Herzegovina,346,346,TRUE
+Bosnia and Hercegovina,4.87,2016,Bosnia-Herzegovina,346,346,TRUE
+Bosnia and Hercegovina,4.87,2017,Bosnia-Herzegovina,346,346,TRUE
+Bosnia and Hercegovina,4.98,2018,Bosnia-Herzegovina,346,346,TRUE
+Bosnia and Hercegovina,4.86,2019,Bosnia-Herzegovina,346,346,TRUE
+Bosnia and Hercegovina,4.84,2020,Bosnia-Herzegovina,346,346,TRUE
+Botswana,7.6,2006,Botswana,571,571,TRUE
+Botswana,7.47,2008,Botswana,571,571,TRUE
+Botswana,7.63,2010,Botswana,571,571,TRUE
+Botswana,7.63,2011,Botswana,571,571,TRUE
+Botswana,7.85,2012,Botswana,571,571,TRUE
+Botswana,7.98,2013,Botswana,571,571,TRUE
+Botswana,7.87,2014,Botswana,571,571,TRUE
+Botswana,7.87,2015,Botswana,571,571,TRUE
+Botswana,7.87,2016,Botswana,571,571,TRUE
+Botswana,7.81,2017,Botswana,571,571,TRUE
+Botswana,7.81,2018,Botswana,571,571,TRUE
+Botswana,7.81,2019,Botswana,571,571,TRUE
+Botswana,7.62,2020,Botswana,571,571,TRUE
+Brazil,7.38,2006,Brazil,140,140,TRUE
+Brazil,7.38,2008,Brazil,140,140,TRUE
+Brazil,7.12,2010,Brazil,140,140,TRUE
+Brazil,7.12,2011,Brazil,140,140,TRUE
+Brazil,7.12,2012,Brazil,140,140,TRUE
+Brazil,7.12,2013,Brazil,140,140,TRUE
+Brazil,7.38,2014,Brazil,140,140,TRUE
+Brazil,6.96,2015,Brazil,140,140,TRUE
+Brazil,6.9,2016,Brazil,140,140,TRUE
+Brazil,6.86,2017,Brazil,140,140,TRUE
+Brazil,6.97,2018,Brazil,140,140,TRUE
+Brazil,6.86,2019,Brazil,140,140,TRUE
+Brazil,6.92,2020,Brazil,140,140,TRUE
+Bulgaria,7.1,2006,Bulgaria,355,355,TRUE
+Bulgaria,7.02,2008,Bulgaria,355,355,TRUE
+Bulgaria,6.84,2010,Bulgaria,355,355,TRUE
+Bulgaria,6.78,2011,Bulgaria,355,355,TRUE
+Bulgaria,6.72,2012,Bulgaria,355,355,TRUE
+Bulgaria,6.83,2013,Bulgaria,355,355,TRUE
+Bulgaria,6.73,2014,Bulgaria,355,355,TRUE
+Bulgaria,7.14,2015,Bulgaria,355,355,TRUE
+Bulgaria,7.01,2016,Bulgaria,355,355,TRUE
+Bulgaria,7.03,2017,Bulgaria,355,355,TRUE
+Bulgaria,7.03,2018,Bulgaria,355,355,TRUE
+Bulgaria,7.03,2019,Bulgaria,355,355,TRUE
+Bulgaria,6.71,2020,Bulgaria,355,355,TRUE
+Burkina Faso,3.72,2006,Burkina Faso (Upper Volta),439,439,TRUE
+Burkina Faso,3.6,2008,Burkina Faso (Upper Volta),439,439,TRUE
+Burkina Faso,3.59,2010,Burkina Faso (Upper Volta),439,439,TRUE
+Burkina Faso,3.59,2011,Burkina Faso (Upper Volta),439,439,TRUE
+Burkina Faso,3.52,2012,Burkina Faso (Upper Volta),439,439,TRUE
+Burkina Faso,4.15,2013,Burkina Faso (Upper Volta),439,439,TRUE
+Burkina Faso,4.09,2014,Burkina Faso (Upper Volta),439,439,TRUE
+Burkina Faso,4.7,2015,Burkina Faso (Upper Volta),439,439,TRUE
+Burkina Faso,4.7,2016,Burkina Faso (Upper Volta),439,439,TRUE
+Burkina Faso,4.75,2017,Burkina Faso (Upper Volta),439,439,TRUE
+Burkina Faso,4.75,2018,Burkina Faso (Upper Volta),439,439,TRUE
+Burkina Faso,4.04,2019,Burkina Faso (Upper Volta),439,439,TRUE
+Burkina Faso,3.73,2020,Burkina Faso (Upper Volta),439,439,TRUE
+Burundi,4.51,2006,Burundi,516,516,TRUE
+Burundi,4.51,2008,Burundi,516,516,TRUE
+Burundi,4.01,2010,Burundi,516,516,TRUE
+Burundi,4.01,2011,Burundi,516,516,TRUE
+Burundi,3.6,2012,Burundi,516,516,TRUE
+Burundi,3.41,2013,Burundi,516,516,TRUE
+Burundi,3.33,2014,Burundi,516,516,TRUE
+Burundi,2.49,2015,Burundi,516,516,TRUE
+Burundi,2.4,2016,Burundi,516,516,TRUE
+Burundi,2.33,2017,Burundi,516,516,TRUE
+Burundi,2.33,2018,Burundi,516,516,TRUE
+Burundi,2.15,2019,Burundi,516,516,TRUE
+Burundi,2.14,2020,Burundi,516,516,TRUE
+Cambodia,4.77,2006,Cambodia (Kampuchea),811,811,TRUE
+Cambodia,4.87,2008,Cambodia (Kampuchea),811,811,TRUE
+Cambodia,4.87,2010,Cambodia (Kampuchea),811,811,TRUE
+Cambodia,4.87,2011,Cambodia (Kampuchea),811,811,TRUE
+Cambodia,4.96,2012,Cambodia (Kampuchea),811,811,TRUE
+Cambodia,4.6,2013,Cambodia (Kampuchea),811,811,TRUE
+Cambodia,4.78,2014,Cambodia (Kampuchea),811,811,TRUE
+Cambodia,4.27,2015,Cambodia (Kampuchea),811,811,TRUE
+Cambodia,4.27,2016,Cambodia (Kampuchea),811,811,TRUE
+Cambodia,3.63,2017,Cambodia (Kampuchea),811,811,TRUE
+Cambodia,3.59,2018,Cambodia (Kampuchea),811,811,TRUE
+Cambodia,3.53,2019,Cambodia (Kampuchea),811,811,TRUE
+Cambodia,3.1,2020,Cambodia (Kampuchea),811,811,TRUE
+Cameroon,3.27,2006,Cameroon,471,471,TRUE
+Cameroon,3.46,2008,Cameroon,471,471,TRUE
+Cameroon,3.41,2010,Cameroon,471,471,TRUE
+Cameroon,3.41,2011,Cameroon,471,471,TRUE
+Cameroon,3.44,2012,Cameroon,471,471,TRUE
+Cameroon,3.41,2013,Cameroon,471,471,TRUE
+Cameroon,3.41,2014,Cameroon,471,471,TRUE
+Cameroon,3.66,2015,Cameroon,471,471,TRUE
+Cameroon,3.46,2016,Cameroon,471,471,TRUE
+Cameroon,3.61,2017,Cameroon,471,471,TRUE
+Cameroon,3.28,2018,Cameroon,471,471,TRUE
+Cameroon,2.85,2019,Cameroon,471,471,TRUE
+Cameroon,2.77,2020,Cameroon,471,471,TRUE
+Canada,9.07,2006,Canada,20,20,TRUE
+Canada,9.07,2008,Canada,20,20,TRUE
+Canada,9.08,2010,Canada,20,20,TRUE
+Canada,9.08,2011,Canada,20,20,TRUE
+Canada,9.08,2012,Canada,20,20,TRUE
+Canada,9.08,2013,Canada,20,20,TRUE
+Canada,9.08,2014,Canada,20,20,TRUE
+Canada,9.08,2015,Canada,20,20,TRUE
+Canada,9.15,2016,Canada,20,20,TRUE
+Canada,9.15,2017,Canada,20,20,TRUE
+Canada,9.15,2018,Canada,20,20,TRUE
+Canada,9.22,2019,Canada,20,20,TRUE
+Canada,9.24,2020,Canada,20,20,TRUE
+Cabo Verde,7.43,2006,Cape Verde,402,402,TRUE
+Cabo Verde,7.81,2008,Cape Verde,402,402,TRUE
+Cabo Verde,7.94,2010,Cape Verde,402,402,TRUE
+Cabo Verde,7.92,2011,Cape Verde,402,402,TRUE
+Cabo Verde,7.92,2012,Cape Verde,402,402,TRUE
+Cabo Verde,7.92,2013,Cape Verde,402,402,TRUE
+Cabo Verde,7.81,2014,Cape Verde,402,402,TRUE
+Cabo Verde,7.81,2015,Cape Verde,402,402,TRUE
+Cabo Verde,7.94,2016,Cape Verde,402,402,TRUE
+Cabo Verde,7.88,2017,Cape Verde,402,402,TRUE
+Cabo Verde,7.88,2018,Cape Verde,402,402,TRUE
+Cabo Verde,7.78,2019,Cape Verde,402,402,TRUE
+Cabo Verde,7.65,2020,Cape Verde,402,402,TRUE
+Central African Republic,1.61,2006,Central African Republic,482,482,TRUE
+Central African Republic,1.86,2008,Central African Republic,482,482,TRUE
+Central African Republic,1.82,2010,Central African Republic,482,482,TRUE
+Central African Republic,1.82,2011,Central African Republic,482,482,TRUE
+Central African Republic,1.99,2012,Central African Republic,482,482,TRUE
+Central African Republic,1.49,2013,Central African Republic,482,482,TRUE
+Central African Republic,1.49,2014,Central African Republic,482,482,TRUE
+Central African Republic,1.57,2015,Central African Republic,482,482,TRUE
+Central African Republic,1.61,2016,Central African Republic,482,482,TRUE
+Central African Republic,1.52,2017,Central African Republic,482,482,TRUE
+Central African Republic,1.52,2018,Central African Republic,482,482,TRUE
+Central African Republic,1.32,2019,Central African Republic,482,482,TRUE
+Central African Republic,1.32,2020,Central African Republic,482,482,TRUE
+Chad,1.65,2006,Chad,483,483,TRUE
+Chad,1.52,2008,Chad,483,483,TRUE
+Chad,1.52,2010,Chad,483,483,TRUE
+Chad,1.62,2011,Chad,483,483,TRUE
+Chad,1.62,2012,Chad,483,483,TRUE
+Chad,1.5,2013,Chad,483,483,TRUE
+Chad,1.5,2014,Chad,483,483,TRUE
+Chad,1.5,2015,Chad,483,483,TRUE
+Chad,1.5,2016,Chad,483,483,TRUE
+Chad,1.5,2017,Chad,483,483,TRUE
+Chad,1.61,2018,Chad,483,483,TRUE
+Chad,1.61,2019,Chad,483,483,TRUE
+Chad,1.55,2020,Chad,483,483,TRUE
+Chile,7.89,2006,Chile,155,155,TRUE
+Chile,7.89,2008,Chile,155,155,TRUE
+Chile,7.67,2010,Chile,155,155,TRUE
+Chile,7.54,2011,Chile,155,155,TRUE
+Chile,7.54,2012,Chile,155,155,TRUE
+Chile,7.8,2013,Chile,155,155,TRUE
+Chile,7.8,2014,Chile,155,155,TRUE
+Chile,7.84,2015,Chile,155,155,TRUE
+Chile,7.78,2016,Chile,155,155,TRUE
+Chile,7.84,2017,Chile,155,155,TRUE
+Chile,7.97,2018,Chile,155,155,TRUE
+Chile,8.08,2019,Chile,155,155,TRUE
+Chile,8.28,2020,Chile,155,155,TRUE
+China,2.97,2006,China,710,710,TRUE
+China,3.04,2008,China,710,710,TRUE
+China,3.14,2010,China,710,710,TRUE
+China,3.14,2011,China,710,710,TRUE
+China,3,2012,China,710,710,TRUE
+China,3,2013,China,710,710,TRUE
+China,3,2014,China,710,710,TRUE
+China,3.14,2015,China,710,710,TRUE
+China,3.14,2016,China,710,710,TRUE
+China,3.1,2017,China,710,710,TRUE
+China,3.32,2018,China,710,710,TRUE
+China,2.26,2019,China,710,710,TRUE
+China,2.27,2020,China,710,710,TRUE
+Colombia,6.4,2006,Colombia,100,100,TRUE
+Colombia,6.54,2008,Colombia,100,100,TRUE
+Colombia,6.55,2010,Colombia,100,100,TRUE
+Colombia,6.63,2011,Colombia,100,100,TRUE
+Colombia,6.63,2012,Colombia,100,100,TRUE
+Colombia,6.55,2013,Colombia,100,100,TRUE
+Colombia,6.55,2014,Colombia,100,100,TRUE
+Colombia,6.62,2015,Colombia,100,100,TRUE
+Colombia,6.67,2016,Colombia,100,100,TRUE
+Colombia,6.67,2017,Colombia,100,100,TRUE
+Colombia,6.96,2018,Colombia,100,100,TRUE
+Colombia,7.13,2019,Colombia,100,100,TRUE
+Colombia,7.04,2020,Colombia,100,100,TRUE
+Comoros,3.9,2006,Comoros,581,581,TRUE
+Comoros,3.58,2008,Comoros,581,581,TRUE
+Comoros,3.41,2010,Comoros,581,581,TRUE
+Comoros,3.52,2011,Comoros,581,581,TRUE
+Comoros,3.52,2012,Comoros,581,581,TRUE
+Comoros,3.52,2013,Comoros,581,581,TRUE
+Comoros,3.52,2014,Comoros,581,581,TRUE
+Comoros,3.71,2015,Comoros,581,581,TRUE
+Comoros,3.71,2016,Comoros,581,581,TRUE
+Comoros,3.71,2017,Comoros,581,581,TRUE
+Comoros,3.71,2018,Comoros,581,581,TRUE
+Comoros,3.15,2019,Comoros,581,581,TRUE
+Comoros,3.09,2020,Comoros,581,581,TRUE
+Congo (Brazzaville),3.19,2006,Congo,484,484,TRUE
+Congo (Brazzaville),2.94,2008,Congo,484,484,TRUE
+Congo (Brazzaville),2.89,2010,Congo,484,484,TRUE
+Congo (Brazzaville),2.89,2011,Congo,484,484,TRUE
+Congo (Brazzaville),2.89,2012,Congo,484,484,TRUE
+Congo (Brazzaville),2.89,2013,Congo,484,484,TRUE
+Congo (Brazzaville),2.89,2014,Congo,484,484,TRUE
+Congo (Brazzaville),2.91,2015,Congo,484,484,TRUE
+Congo (Brazzaville),2.91,2016,Congo,484,484,TRUE
+Congo (Brazzaville),3.25,2017,Congo,484,484,TRUE
+Congo (Brazzaville),3.31,2018,Congo,484,484,TRUE
+Congo (Brazzaville),3.11,2019,Congo,484,484,TRUE
+Congo (Brazzaville),3.11,2020,Congo,484,484,TRUE
+Democratic Republic of Congo,2.76,2006,"Congo, Democratic Republic of (Zaire)",490,490,TRUE
+Democratic Republic of Congo,2.28,2008,"Congo, Democratic Republic of (Zaire)",490,490,TRUE
+Democratic Republic of Congo,2.15,2010,"Congo, Democratic Republic of (Zaire)",490,490,TRUE
+Democratic Republic of Congo,2.15,2011,"Congo, Democratic Republic of (Zaire)",490,490,TRUE
+Democratic Republic of Congo,1.92,2012,"Congo, Democratic Republic of (Zaire)",490,490,TRUE
+Democratic Republic of Congo,1.83,2013,"Congo, Democratic Republic of (Zaire)",490,490,TRUE
+Democratic Republic of Congo,1.75,2014,"Congo, Democratic Republic of (Zaire)",490,490,TRUE
+Democratic Republic of Congo,2.11,2015,"Congo, Democratic Republic of (Zaire)",490,490,TRUE
+Democratic Republic of Congo,1.93,2016,"Congo, Democratic Republic of (Zaire)",490,490,TRUE
+Democratic Republic of Congo,1.61,2017,"Congo, Democratic Republic of (Zaire)",490,490,TRUE
+Democratic Republic of Congo,1.49,2018,"Congo, Democratic Republic of (Zaire)",490,490,TRUE
+Democratic Republic of Congo,1.13,2019,"Congo, Democratic Republic of (Zaire)",490,490,TRUE
+Democratic Republic of Congo,1.13,2020,"Congo, Democratic Republic of (Zaire)",490,490,TRUE
+Costa Rica,8.04,2006,Costa Rica,94,94,TRUE
+Costa Rica,8.04,2008,Costa Rica,94,94,TRUE
+Costa Rica,8.04,2010,Costa Rica,94,94,TRUE
+Costa Rica,8.1,2011,Costa Rica,94,94,TRUE
+Costa Rica,8.1,2012,Costa Rica,94,94,TRUE
+Costa Rica,8.03,2013,Costa Rica,94,94,TRUE
+Costa Rica,8.03,2014,Costa Rica,94,94,TRUE
+Costa Rica,7.96,2015,Costa Rica,94,94,TRUE
+Costa Rica,7.88,2016,Costa Rica,94,94,TRUE
+Costa Rica,7.88,2017,Costa Rica,94,94,TRUE
+Costa Rica,8.07,2018,Costa Rica,94,94,TRUE
+Costa Rica,8.13,2019,Costa Rica,94,94,TRUE
+Costa Rica,8.16,2020,Costa Rica,94,94,TRUE
+Côte d’Ivoire,3.38,2006,Cote D'Ivoire,437,437,TRUE
+Côte d’Ivoire,3.27,2008,Cote D'Ivoire,437,437,TRUE
+Côte d’Ivoire,3.02,2010,Cote D'Ivoire,437,437,TRUE
+Côte d’Ivoire,3.08,2011,Cote D'Ivoire,437,437,TRUE
+Côte d’Ivoire,3.25,2012,Cote D'Ivoire,437,437,TRUE
+Côte d’Ivoire,3.25,2013,Cote D'Ivoire,437,437,TRUE
+Côte d’Ivoire,3.53,2014,Cote D'Ivoire,437,437,TRUE
+Côte d’Ivoire,3.31,2015,Cote D'Ivoire,437,437,TRUE
+Côte d’Ivoire,3.81,2016,Cote D'Ivoire,437,437,TRUE
+Côte d’Ivoire,3.93,2017,Cote D'Ivoire,437,437,TRUE
+Côte d’Ivoire,4.15,2018,Cote D'Ivoire,437,437,TRUE
+Côte d’Ivoire,4.05,2019,Cote D'Ivoire,437,437,TRUE
+Côte d’Ivoire,4.11,2020,Cote D'Ivoire,437,437,TRUE
+Croatia,7.04,2006,Croatia,344,344,TRUE
+Croatia,7.04,2008,Croatia,344,344,TRUE
+Croatia,6.81,2010,Croatia,344,344,TRUE
+Croatia,6.73,2011,Croatia,344,344,TRUE
+Croatia,6.93,2012,Croatia,344,344,TRUE
+Croatia,6.93,2013,Croatia,344,344,TRUE
+Croatia,6.93,2014,Croatia,344,344,TRUE
+Croatia,6.93,2015,Croatia,344,344,TRUE
+Croatia,6.75,2016,Croatia,344,344,TRUE
+Croatia,6.63,2017,Croatia,344,344,TRUE
+Croatia,6.57,2018,Croatia,344,344,TRUE
+Croatia,6.57,2019,Croatia,344,344,TRUE
+Croatia,6.5,2020,Croatia,344,344,TRUE
+Cuba,3.52,2006,Cuba,40,40,TRUE
+Cuba,3.52,2008,Cuba,40,40,TRUE
+Cuba,3.52,2010,Cuba,40,40,TRUE
+Cuba,3.52,2011,Cuba,40,40,TRUE
+Cuba,3.52,2012,Cuba,40,40,TRUE
+Cuba,3.52,2013,Cuba,40,40,TRUE
+Cuba,3.52,2014,Cuba,40,40,TRUE
+Cuba,3.52,2015,Cuba,40,40,TRUE
+Cuba,3.46,2016,Cuba,40,40,TRUE
+Cuba,3.31,2017,Cuba,40,40,TRUE
+Cuba,3,2018,Cuba,40,40,TRUE
+Cuba,2.84,2019,Cuba,40,40,TRUE
+Cuba,2.84,2020,Cuba,40,40,TRUE
+Cyprus,7.6,2006,Cyprus,352,352,TRUE
+Cyprus,7.7,2008,Cyprus,352,352,TRUE
+Cyprus,7.29,2010,Cyprus,352,352,TRUE
+Cyprus,7.29,2011,Cyprus,352,352,TRUE
+Cyprus,7.29,2012,Cyprus,352,352,TRUE
+Cyprus,7.29,2013,Cyprus,352,352,TRUE
+Cyprus,7.4,2014,Cyprus,352,352,TRUE
+Cyprus,7.53,2015,Cyprus,352,352,TRUE
+Cyprus,7.65,2016,Cyprus,352,352,TRUE
+Cyprus,7.59,2017,Cyprus,352,352,TRUE
+Cyprus,7.59,2018,Cyprus,352,352,TRUE
+Cyprus,7.59,2019,Cyprus,352,352,TRUE
+Cyprus,7.56,2020,Cyprus,352,352,TRUE
+Czech Republic,8.17,2006,Czech Republic,316,316,TRUE
+Czech Republic,8.19,2008,Czech Republic,316,316,TRUE
+Czech Republic,8.19,2010,Czech Republic,316,316,TRUE
+Czech Republic,8.19,2011,Czech Republic,316,316,TRUE
+Czech Republic,8.19,2012,Czech Republic,316,316,TRUE
+Czech Republic,8.06,2013,Czech Republic,316,316,TRUE
+Czech Republic,7.94,2014,Czech Republic,316,316,TRUE
+Czech Republic,7.94,2015,Czech Republic,316,316,TRUE
+Czech Republic,7.82,2016,Czech Republic,316,316,TRUE
+Czech Republic,7.62,2017,Czech Republic,316,316,TRUE
+Czech Republic,7.69,2018,Czech Republic,316,316,TRUE
+Czech Republic,7.69,2019,Czech Republic,316,316,TRUE
+Czech Republic,7.67,2020,Czech Republic,316,316,TRUE
+Denmark,9.52,2006,Denmark,390,390,TRUE
+Denmark,9.52,2008,Denmark,390,390,TRUE
+Denmark,9.52,2010,Denmark,390,390,TRUE
+Denmark,9.52,2011,Denmark,390,390,TRUE
+Denmark,9.52,2012,Denmark,390,390,TRUE
+Denmark,9.38,2013,Denmark,390,390,TRUE
+Denmark,9.11,2014,Denmark,390,390,TRUE
+Denmark,9.11,2015,Denmark,390,390,TRUE
+Denmark,9.2,2016,Denmark,390,390,TRUE
+Denmark,9.22,2017,Denmark,390,390,TRUE
+Denmark,9.22,2018,Denmark,390,390,TRUE
+Denmark,9.22,2019,Denmark,390,390,TRUE
+Denmark,9.15,2020,Denmark,390,390,TRUE
+Djibouti,2.37,2006,Djibouti,522,522,TRUE
+Djibouti,2.37,2008,Djibouti,522,522,TRUE
+Djibouti,2.2,2010,Djibouti,522,522,TRUE
+Djibouti,2.68,2011,Djibouti,522,522,TRUE
+Djibouti,2.74,2012,Djibouti,522,522,TRUE
+Djibouti,2.96,2013,Djibouti,522,522,TRUE
+Djibouti,2.99,2014,Djibouti,522,522,TRUE
+Djibouti,2.9,2015,Djibouti,522,522,TRUE
+Djibouti,2.83,2016,Djibouti,522,522,TRUE
+Djibouti,2.76,2017,Djibouti,522,522,TRUE
+Djibouti,2.87,2018,Djibouti,522,522,TRUE
+Djibouti,2.77,2019,Djibouti,522,522,TRUE
+Djibouti,2.71,2020,Djibouti,522,522,TRUE
+Dominican Republic,6.13,2006,Dominican Republic,42,42,TRUE
+Dominican Republic,6.2,2008,Dominican Republic,42,42,TRUE
+Dominican Republic,6.2,2010,Dominican Republic,42,42,TRUE
+Dominican Republic,6.2,2011,Dominican Republic,42,42,TRUE
+Dominican Republic,6.49,2012,Dominican Republic,42,42,TRUE
+Dominican Republic,6.74,2013,Dominican Republic,42,42,TRUE
+Dominican Republic,6.67,2014,Dominican Republic,42,42,TRUE
+Dominican Republic,6.67,2015,Dominican Republic,42,42,TRUE
+Dominican Republic,6.67,2016,Dominican Republic,42,42,TRUE
+Dominican Republic,6.66,2017,Dominican Republic,42,42,TRUE
+Dominican Republic,6.54,2018,Dominican Republic,42,42,TRUE
+Dominican Republic,6.54,2019,Dominican Republic,42,42,TRUE
+Dominican Republic,6.32,2020,Dominican Republic,42,42,TRUE
+Timor Leste,6.41,2006,East Timor,860,860,TRUE
+Timor Leste,7.22,2008,East Timor,860,860,TRUE
+Timor Leste,7.22,2010,East Timor,860,860,TRUE
+Timor Leste,7.22,2011,East Timor,860,860,TRUE
+Timor Leste,7.16,2012,East Timor,860,860,TRUE
+Timor Leste,7.24,2013,East Timor,860,860,TRUE
+Timor Leste,7.24,2014,East Timor,860,860,TRUE
+Timor Leste,7.24,2015,East Timor,860,860,TRUE
+Timor Leste,7.24,2016,East Timor,860,860,TRUE
+Timor Leste,7.19,2017,East Timor,860,860,TRUE
+Timor Leste,7.19,2018,East Timor,860,860,TRUE
+Timor Leste,7.19,2019,East Timor,860,860,TRUE
+Timor Leste,7.06,2020,East Timor,860,860,TRUE
+Ecuador,5.64,2006,Ecuador,130,130,TRUE
+Ecuador,5.64,2008,Ecuador,130,130,TRUE
+Ecuador,5.77,2010,Ecuador,130,130,TRUE
+Ecuador,5.72,2011,Ecuador,130,130,TRUE
+Ecuador,5.78,2012,Ecuador,130,130,TRUE
+Ecuador,5.87,2013,Ecuador,130,130,TRUE
+Ecuador,5.87,2014,Ecuador,130,130,TRUE
+Ecuador,5.87,2015,Ecuador,130,130,TRUE
+Ecuador,5.81,2016,Ecuador,130,130,TRUE
+Ecuador,6.02,2017,Ecuador,130,130,TRUE
+Ecuador,6.27,2018,Ecuador,130,130,TRUE
+Ecuador,6.33,2019,Ecuador,130,130,TRUE
+Ecuador,6.13,2020,Ecuador,130,130,TRUE
+Egypt,3.9,2006,Egypt,651,651,TRUE
+Egypt,3.89,2008,Egypt,651,651,TRUE
+Egypt,3.07,2010,Egypt,651,651,TRUE
+Egypt,3.95,2011,Egypt,651,651,TRUE
+Egypt,4.56,2012,Egypt,651,651,TRUE
+Egypt,3.27,2013,Egypt,651,651,TRUE
+Egypt,3.16,2014,Egypt,651,651,TRUE
+Egypt,3.18,2015,Egypt,651,651,TRUE
+Egypt,3.31,2016,Egypt,651,651,TRUE
+Egypt,3.36,2017,Egypt,651,651,TRUE
+Egypt,3.36,2018,Egypt,651,651,TRUE
+Egypt,3.06,2019,Egypt,651,651,TRUE
+Egypt,2.93,2020,Egypt,651,651,TRUE
+El Salvador,6.22,2006,El Salvador,92,92,TRUE
+El Salvador,6.4,2008,El Salvador,92,92,TRUE
+El Salvador,6.47,2010,El Salvador,92,92,TRUE
+El Salvador,6.47,2011,El Salvador,92,92,TRUE
+El Salvador,6.47,2012,El Salvador,92,92,TRUE
+El Salvador,6.53,2013,El Salvador,92,92,TRUE
+El Salvador,6.53,2014,El Salvador,92,92,TRUE
+El Salvador,6.64,2015,El Salvador,92,92,TRUE
+El Salvador,6.64,2016,El Salvador,92,92,TRUE
+El Salvador,6.43,2017,El Salvador,92,92,TRUE
+El Salvador,5.96,2018,El Salvador,92,92,TRUE
+El Salvador,6.15,2019,El Salvador,92,92,TRUE
+El Salvador,5.9,2020,El Salvador,92,92,TRUE
+Equatorial Guinea,2.09,2006,Equatorial Guinea,411,411,TRUE
+Equatorial Guinea,2.19,2008,Equatorial Guinea,411,411,TRUE
+Equatorial Guinea,1.84,2010,Equatorial Guinea,411,411,TRUE
+Equatorial Guinea,1.77,2011,Equatorial Guinea,411,411,TRUE
+Equatorial Guinea,1.83,2012,Equatorial Guinea,411,411,TRUE
+Equatorial Guinea,1.77,2013,Equatorial Guinea,411,411,TRUE
+Equatorial Guinea,1.66,2014,Equatorial Guinea,411,411,TRUE
+Equatorial Guinea,1.77,2015,Equatorial Guinea,411,411,TRUE
+Equatorial Guinea,1.7,2016,Equatorial Guinea,411,411,TRUE
+Equatorial Guinea,1.81,2017,Equatorial Guinea,411,411,TRUE
+Equatorial Guinea,1.92,2018,Equatorial Guinea,411,411,TRUE
+Equatorial Guinea,1.92,2019,Equatorial Guinea,411,411,TRUE
+Equatorial Guinea,1.92,2020,Equatorial Guinea,411,411,TRUE
+Eritrea,2.31,2006,Eritrea,531,531,TRUE
+Eritrea,2.31,2008,Eritrea,531,531,TRUE
+Eritrea,2.31,2010,Eritrea,531,531,TRUE
+Eritrea,2.34,2011,Eritrea,531,531,TRUE
+Eritrea,2.4,2012,Eritrea,531,531,TRUE
+Eritrea,2.4,2013,Eritrea,531,531,TRUE
+Eritrea,2.44,2014,Eritrea,531,531,TRUE
+Eritrea,2.37,2015,Eritrea,531,531,TRUE
+Eritrea,2.37,2016,Eritrea,531,531,TRUE
+Eritrea,2.37,2017,Eritrea,531,531,TRUE
+Eritrea,2.37,2018,Eritrea,531,531,TRUE
+Eritrea,2.37,2019,Eritrea,531,531,TRUE
+Eritrea,2.15,2020,Eritrea,531,531,TRUE
+Estonia,7.74,2006,Estonia,366,366,TRUE
+Estonia,7.68,2008,Estonia,366,366,TRUE
+Estonia,7.68,2010,Estonia,366,366,TRUE
+Estonia,7.61,2011,Estonia,366,366,TRUE
+Estonia,7.61,2012,Estonia,366,366,TRUE
+Estonia,7.61,2013,Estonia,366,366,TRUE
+Estonia,7.74,2014,Estonia,366,366,TRUE
+Estonia,7.85,2015,Estonia,366,366,TRUE
+Estonia,7.85,2016,Estonia,366,366,TRUE
+Estonia,7.79,2017,Estonia,366,366,TRUE
+Estonia,7.97,2018,Estonia,366,366,TRUE
+Estonia,7.9,2019,Estonia,366,366,TRUE
+Estonia,7.84,2020,Estonia,366,366,TRUE
+Ethiopia,4.72,2006,Ethiopia,530,530,TRUE
+Ethiopia,4.52,2008,Ethiopia,530,530,TRUE
+Ethiopia,3.68,2010,Ethiopia,530,530,TRUE
+Ethiopia,3.79,2011,Ethiopia,530,530,TRUE
+Ethiopia,3.72,2012,Ethiopia,530,530,TRUE
+Ethiopia,3.83,2013,Ethiopia,530,530,TRUE
+Ethiopia,3.72,2014,Ethiopia,530,530,TRUE
+Ethiopia,3.83,2015,Ethiopia,530,530,TRUE
+Ethiopia,3.6,2016,Ethiopia,530,530,TRUE
+Ethiopia,3.42,2017,Ethiopia,530,530,TRUE
+Ethiopia,3.35,2018,Ethiopia,530,530,TRUE
+Ethiopia,3.44,2019,Ethiopia,530,530,TRUE
+Ethiopia,3.38,2020,Ethiopia,530,530,TRUE
+Fiji,5.66,2006,Fiji,950,950,TRUE
+Fiji,5.11,2008,Fiji,950,950,TRUE
+Fiji,3.62,2010,Fiji,950,950,TRUE
+Fiji,3.67,2011,Fiji,950,950,TRUE
+Fiji,3.67,2012,Fiji,950,950,TRUE
+Fiji,3.61,2013,Fiji,950,950,TRUE
+Fiji,5.61,2014,Fiji,950,950,TRUE
+Fiji,5.69,2015,Fiji,950,950,TRUE
+Fiji,5.64,2016,Fiji,950,950,TRUE
+Fiji,5.85,2017,Fiji,950,950,TRUE
+Fiji,5.85,2018,Fiji,950,950,TRUE
+Fiji,5.85,2019,Fiji,950,950,TRUE
+Fiji,5.72,2020,Fiji,950,950,TRUE
+Finland,9.25,2006,Finland,375,375,TRUE
+Finland,9.25,2008,Finland,375,375,TRUE
+Finland,9.19,2010,Finland,375,375,TRUE
+Finland,9.06,2011,Finland,375,375,TRUE
+Finland,9.06,2012,Finland,375,375,TRUE
+Finland,9.03,2013,Finland,375,375,TRUE
+Finland,9.03,2014,Finland,375,375,TRUE
+Finland,9.03,2015,Finland,375,375,TRUE
+Finland,9.03,2016,Finland,375,375,TRUE
+Finland,9.03,2017,Finland,375,375,TRUE
+Finland,9.14,2018,Finland,375,375,TRUE
+Finland,9.25,2019,Finland,375,375,TRUE
+Finland,9.2,2020,Finland,375,375,TRUE
+France,8.07,2006,France,220,220,TRUE
+France,8.07,2008,France,220,220,TRUE
+France,7.77,2010,France,220,220,TRUE
+France,7.77,2011,France,220,220,TRUE
+France,7.88,2012,France,220,220,TRUE
+France,7.92,2013,France,220,220,TRUE
+France,8.04,2014,France,220,220,TRUE
+France,7.92,2015,France,220,220,TRUE
+France,7.92,2016,France,220,220,TRUE
+France,7.8,2017,France,220,220,TRUE
+France,7.8,2018,France,220,220,TRUE
+France,8.12,2019,France,220,220,TRUE
+France,7.99,2020,France,220,220,TRUE
+Gabon,2.72,2006,Gabon,481,481,TRUE
+Gabon,3,2008,Gabon,481,481,TRUE
+Gabon,3.29,2010,Gabon,481,481,TRUE
+Gabon,3.48,2011,Gabon,481,481,TRUE
+Gabon,3.56,2012,Gabon,481,481,TRUE
+Gabon,3.76,2013,Gabon,481,481,TRUE
+Gabon,3.76,2014,Gabon,481,481,TRUE
+Gabon,3.76,2015,Gabon,481,481,TRUE
+Gabon,3.74,2016,Gabon,481,481,TRUE
+Gabon,3.61,2017,Gabon,481,481,TRUE
+Gabon,3.61,2018,Gabon,481,481,TRUE
+Gabon,3.61,2019,Gabon,481,481,TRUE
+Gabon,3.54,2020,Gabon,481,481,TRUE
+Gambia,4.39,2006,Gambia,420,420,TRUE
+Gambia,4.19,2008,Gambia,420,420,TRUE
+Gambia,3.38,2010,Gambia,420,420,TRUE
+Gambia,3.38,2011,Gambia,420,420,TRUE
+Gambia,3.31,2012,Gambia,420,420,TRUE
+Gambia,3.31,2013,Gambia,420,420,TRUE
+Gambia,3.05,2014,Gambia,420,420,TRUE
+Gambia,2.97,2015,Gambia,420,420,TRUE
+Gambia,2.91,2016,Gambia,420,420,TRUE
+Gambia,4.06,2017,Gambia,420,420,TRUE
+Gambia,4.31,2018,Gambia,420,420,TRUE
+Gambia,4.33,2019,Gambia,420,420,TRUE
+Gambia,4.49,2020,Gambia,420,420,TRUE
+Georgia,4.9,2006,Georgia,372,372,TRUE
+Georgia,4.62,2008,Georgia,372,372,TRUE
+Georgia,4.59,2010,Georgia,372,372,TRUE
+Georgia,4.74,2011,Georgia,372,372,TRUE
+Georgia,5.53,2012,Georgia,372,372,TRUE
+Georgia,5.95,2013,Georgia,372,372,TRUE
+Georgia,5.82,2014,Georgia,372,372,TRUE
+Georgia,5.88,2015,Georgia,372,372,TRUE
+Georgia,5.93,2016,Georgia,372,372,TRUE
+Georgia,5.93,2017,Georgia,372,372,TRUE
+Georgia,5.5,2018,Georgia,372,372,TRUE
+Georgia,5.42,2019,Georgia,372,372,TRUE
+Georgia,5.31,2020,Georgia,372,372,TRUE
+Germany,8.82,2006,German Federal Republic,260,255,TRUE
+Germany,8.82,2008,German Federal Republic,260,255,TRUE
+Germany,8.38,2010,German Federal Republic,260,255,TRUE
+Germany,8.34,2011,German Federal Republic,260,255,TRUE
+Germany,8.34,2012,German Federal Republic,260,255,TRUE
+Germany,8.31,2013,German Federal Republic,260,255,TRUE
+Germany,8.64,2014,German Federal Republic,260,255,TRUE
+Germany,8.64,2015,German Federal Republic,260,255,TRUE
+Germany,8.63,2016,German Federal Republic,260,255,TRUE
+Germany,8.61,2017,German Federal Republic,260,255,TRUE
+Germany,8.68,2018,German Federal Republic,260,255,TRUE
+Germany,8.68,2019,German Federal Republic,260,255,TRUE
+Germany,8.67,2020,German Federal Republic,260,255,TRUE
+Ghana,5.35,2006,Ghana,452,452,TRUE
+Ghana,5.35,2008,Ghana,452,452,TRUE
+Ghana,6.02,2010,Ghana,452,452,TRUE
+Ghana,6.02,2011,Ghana,452,452,TRUE
+Ghana,6.02,2012,Ghana,452,452,TRUE
+Ghana,6.33,2013,Ghana,452,452,TRUE
+Ghana,6.33,2014,Ghana,452,452,TRUE
+Ghana,6.86,2015,Ghana,452,452,TRUE
+Ghana,6.75,2016,Ghana,452,452,TRUE
+Ghana,6.69,2017,Ghana,452,452,TRUE
+Ghana,6.63,2018,Ghana,452,452,TRUE
+Ghana,6.63,2019,Ghana,452,452,TRUE
+Ghana,6.5,2020,Ghana,452,452,TRUE
+Greece,8.13,2006,Greece,350,350,TRUE
+Greece,8.13,2008,Greece,350,350,TRUE
+Greece,7.92,2010,Greece,350,350,TRUE
+Greece,7.65,2011,Greece,350,350,TRUE
+Greece,7.65,2012,Greece,350,350,TRUE
+Greece,7.65,2013,Greece,350,350,TRUE
+Greece,7.45,2014,Greece,350,350,TRUE
+Greece,7.45,2015,Greece,350,350,TRUE
+Greece,7.23,2016,Greece,350,350,TRUE
+Greece,7.29,2017,Greece,350,350,TRUE
+Greece,7.29,2018,Greece,350,350,TRUE
+Greece,7.43,2019,Greece,350,350,TRUE
+Greece,7.39,2020,Greece,350,350,TRUE
+Guatemala,6.07,2006,Guatemala,90,90,TRUE
+Guatemala,6.07,2008,Guatemala,90,90,TRUE
+Guatemala,6.05,2010,Guatemala,90,90,TRUE
+Guatemala,5.88,2011,Guatemala,90,90,TRUE
+Guatemala,5.88,2012,Guatemala,90,90,TRUE
+Guatemala,5.81,2013,Guatemala,90,90,TRUE
+Guatemala,5.81,2014,Guatemala,90,90,TRUE
+Guatemala,5.92,2015,Guatemala,90,90,TRUE
+Guatemala,5.92,2016,Guatemala,90,90,TRUE
+Guatemala,5.86,2017,Guatemala,90,90,TRUE
+Guatemala,5.6,2018,Guatemala,90,90,TRUE
+Guatemala,5.26,2019,Guatemala,90,90,TRUE
+Guatemala,4.97,2020,Guatemala,90,90,TRUE
+Guinea,2.02,2006,Guinea,438,438,TRUE
+Guinea,2.09,2008,Guinea,438,438,TRUE
+Guinea,2.79,2010,Guinea,438,438,TRUE
+Guinea,2.79,2011,Guinea,438,438,TRUE
+Guinea,2.79,2012,Guinea,438,438,TRUE
+Guinea,2.84,2013,Guinea,438,438,TRUE
+Guinea,3.01,2014,Guinea,438,438,TRUE
+Guinea,3.14,2015,Guinea,438,438,TRUE
+Guinea,3.14,2016,Guinea,438,438,TRUE
+Guinea,3.14,2017,Guinea,438,438,TRUE
+Guinea,3.14,2018,Guinea,438,438,TRUE
+Guinea,3.14,2019,Guinea,438,438,TRUE
+Guinea,3.08,2020,Guinea,438,438,TRUE
+Guinea-Bissau,2,2006,Guinea-Bissau,404,404,TRUE
+Guinea-Bissau,1.99,2008,Guinea-Bissau,404,404,TRUE
+Guinea-Bissau,1.99,2010,Guinea-Bissau,404,404,TRUE
+Guinea-Bissau,1.99,2011,Guinea-Bissau,404,404,TRUE
+Guinea-Bissau,1.43,2012,Guinea-Bissau,404,404,TRUE
+Guinea-Bissau,1.26,2013,Guinea-Bissau,404,404,TRUE
+Guinea-Bissau,1.93,2014,Guinea-Bissau,404,404,TRUE
+Guinea-Bissau,1.93,2015,Guinea-Bissau,404,404,TRUE
+Guinea-Bissau,1.98,2016,Guinea-Bissau,404,404,TRUE
+Guinea-Bissau,1.98,2017,Guinea-Bissau,404,404,TRUE
+Guinea-Bissau,1.98,2018,Guinea-Bissau,404,404,TRUE
+Guinea-Bissau,2.63,2019,Guinea-Bissau,404,404,TRUE
+Guinea-Bissau,2.63,2020,Guinea-Bissau,404,404,TRUE
+Guyana,6.15,2006,Guyana,110,110,TRUE
+Guyana,6.12,2008,Guyana,110,110,TRUE
+Guyana,6.05,2010,Guyana,110,110,TRUE
+Guyana,6.05,2011,Guyana,110,110,TRUE
+Guyana,6.05,2012,Guyana,110,110,TRUE
+Guyana,6.05,2013,Guyana,110,110,TRUE
+Guyana,5.91,2014,Guyana,110,110,TRUE
+Guyana,6.05,2015,Guyana,110,110,TRUE
+Guyana,6.25,2016,Guyana,110,110,TRUE
+Guyana,6.46,2017,Guyana,110,110,TRUE
+Guyana,6.67,2018,Guyana,110,110,TRUE
+Guyana,6.15,2019,Guyana,110,110,TRUE
+Guyana,6.01,2020,Guyana,110,110,TRUE
+Haiti,4.19,2006,Haiti,41,41,TRUE
+Haiti,4.19,2008,Haiti,41,41,TRUE
+Haiti,4,2010,Haiti,41,41,TRUE
+Haiti,4,2011,Haiti,41,41,TRUE
+Haiti,3.96,2012,Haiti,41,41,TRUE
+Haiti,3.94,2013,Haiti,41,41,TRUE
+Haiti,3.82,2014,Haiti,41,41,TRUE
+Haiti,3.94,2015,Haiti,41,41,TRUE
+Haiti,4.02,2016,Haiti,41,41,TRUE
+Haiti,4.03,2017,Haiti,41,41,TRUE
+Haiti,4.91,2018,Haiti,41,41,TRUE
+Haiti,4.57,2019,Haiti,41,41,TRUE
+Haiti,4.22,2020,Haiti,41,41,TRUE
+Honduras,6.25,2006,Honduras,91,91,TRUE
+Honduras,6.18,2008,Honduras,91,91,TRUE
+Honduras,5.76,2010,Honduras,91,91,TRUE
+Honduras,5.84,2011,Honduras,91,91,TRUE
+Honduras,5.84,2012,Honduras,91,91,TRUE
+Honduras,5.84,2013,Honduras,91,91,TRUE
+Honduras,5.84,2014,Honduras,91,91,TRUE
+Honduras,5.84,2015,Honduras,91,91,TRUE
+Honduras,5.92,2016,Honduras,91,91,TRUE
+Honduras,5.72,2017,Honduras,91,91,TRUE
+Honduras,5.63,2018,Honduras,91,91,TRUE
+Honduras,5.42,2019,Honduras,91,91,TRUE
+Honduras,5.36,2020,Honduras,91,91,TRUE
+Hong Kong,6.03,2006,Hong Kong,NA,NA,FALSE
+Hong Kong,5.85,2008,Hong Kong,NA,NA,FALSE
+Hong Kong,5.92,2010,Hong Kong,NA,NA,FALSE
+Hong Kong,5.92,2011,Hong Kong,NA,NA,FALSE
+Hong Kong,6.42,2012,Hong Kong,NA,NA,FALSE
+Hong Kong,6.42,2013,Hong Kong,NA,NA,FALSE
+Hong Kong,6.46,2014,Hong Kong,NA,NA,FALSE
+Hong Kong,6.5,2015,Hong Kong,NA,NA,FALSE
+Hong Kong,6.42,2016,Hong Kong,NA,NA,FALSE
+Hong Kong,6.31,2017,Hong Kong,NA,NA,FALSE
+Hong Kong,6.15,2018,Hong Kong,NA,NA,FALSE
+Hong Kong,6.02,2019,Hong Kong,NA,NA,FALSE
+Hong Kong,5.57,2020,Hong Kong,NA,NA,FALSE
+Hungary,7.53,2006,Hungary,310,310,TRUE
+Hungary,7.44,2008,Hungary,310,310,TRUE
+Hungary,7.21,2010,Hungary,310,310,TRUE
+Hungary,7.04,2011,Hungary,310,310,TRUE
+Hungary,6.96,2012,Hungary,310,310,TRUE
+Hungary,6.96,2013,Hungary,310,310,TRUE
+Hungary,6.9,2014,Hungary,310,310,TRUE
+Hungary,6.84,2015,Hungary,310,310,TRUE
+Hungary,6.72,2016,Hungary,310,310,TRUE
+Hungary,6.64,2017,Hungary,310,310,TRUE
+Hungary,6.63,2018,Hungary,310,310,TRUE
+Hungary,6.63,2019,Hungary,310,310,TRUE
+Hungary,6.56,2020,Hungary,310,310,TRUE
+Iceland,9.71,2006,Iceland,395,395,TRUE
+Iceland,9.65,2008,Iceland,395,395,TRUE
+Iceland,9.65,2010,Iceland,395,395,TRUE
+Iceland,9.65,2011,Iceland,395,395,TRUE
+Iceland,9.65,2012,Iceland,395,395,TRUE
+Iceland,9.65,2013,Iceland,395,395,TRUE
+Iceland,9.58,2014,Iceland,395,395,TRUE
+Iceland,9.58,2015,Iceland,395,395,TRUE
+Iceland,9.5,2016,Iceland,395,395,TRUE
+Iceland,9.58,2017,Iceland,395,395,TRUE
+Iceland,9.58,2018,Iceland,395,395,TRUE
+Iceland,9.58,2019,Iceland,395,395,TRUE
+Iceland,9.37,2020,Iceland,395,395,TRUE
+India,7.68,2006,India,750,750,TRUE
+India,7.8,2008,India,750,750,TRUE
+India,7.28,2010,India,750,750,TRUE
+India,7.3,2011,India,750,750,TRUE
+India,7.52,2012,India,750,750,TRUE
+India,7.69,2013,India,750,750,TRUE
+India,7.92,2014,India,750,750,TRUE
+India,7.74,2015,India,750,750,TRUE
+India,7.81,2016,India,750,750,TRUE
+India,7.23,2017,India,750,750,TRUE
+India,7.23,2018,India,750,750,TRUE
+India,6.9,2019,India,750,750,TRUE
+India,6.61,2020,India,750,750,TRUE
+Indonesia,6.41,2006,Indonesia,850,850,TRUE
+Indonesia,6.34,2008,Indonesia,850,850,TRUE
+Indonesia,6.53,2010,Indonesia,850,850,TRUE
+Indonesia,6.53,2011,Indonesia,850,850,TRUE
+Indonesia,6.76,2012,Indonesia,850,850,TRUE
+Indonesia,6.82,2013,Indonesia,850,850,TRUE
+Indonesia,6.95,2014,Indonesia,850,850,TRUE
+Indonesia,7.03,2015,Indonesia,850,850,TRUE
+Indonesia,6.97,2016,Indonesia,850,850,TRUE
+Indonesia,6.39,2017,Indonesia,850,850,TRUE
+Indonesia,6.39,2018,Indonesia,850,850,TRUE
+Indonesia,6.48,2019,Indonesia,850,850,TRUE
+Indonesia,6.3,2020,Indonesia,850,850,TRUE
+Iran,2.93,2006,Iran (Persia),630,630,TRUE
+Iran,2.83,2008,Iran (Persia),630,630,TRUE
+Iran,1.94,2010,Iran (Persia),630,630,TRUE
+Iran,1.98,2011,Iran (Persia),630,630,TRUE
+Iran,1.98,2012,Iran (Persia),630,630,TRUE
+Iran,1.98,2013,Iran (Persia),630,630,TRUE
+Iran,1.98,2014,Iran (Persia),630,630,TRUE
+Iran,2.16,2015,Iran (Persia),630,630,TRUE
+Iran,2.34,2016,Iran (Persia),630,630,TRUE
+Iran,2.45,2017,Iran (Persia),630,630,TRUE
+Iran,2.45,2018,Iran (Persia),630,630,TRUE
+Iran,2.38,2019,Iran (Persia),630,630,TRUE
+Iran,2.2,2020,Iran (Persia),630,630,TRUE
+Iraq,4.01,2006,Iraq,645,645,TRUE
+Iraq,4,2008,Iraq,645,645,TRUE
+Iraq,4,2010,Iraq,645,645,TRUE
+Iraq,4.03,2011,Iraq,645,645,TRUE
+Iraq,4.1,2012,Iraq,645,645,TRUE
+Iraq,4.1,2013,Iraq,645,645,TRUE
+Iraq,4.23,2014,Iraq,645,645,TRUE
+Iraq,4.08,2015,Iraq,645,645,TRUE
+Iraq,4.08,2016,Iraq,645,645,TRUE
+Iraq,4.09,2017,Iraq,645,645,TRUE
+Iraq,4.06,2018,Iraq,645,645,TRUE
+Iraq,3.74,2019,Iraq,645,645,TRUE
+Iraq,3.62,2020,Iraq,645,645,TRUE
+Ireland,9.01,2006,Ireland,205,205,TRUE
+Ireland,9.01,2008,Ireland,205,205,TRUE
+Ireland,8.79,2010,Ireland,205,205,TRUE
+Ireland,8.56,2011,Ireland,205,205,TRUE
+Ireland,8.56,2012,Ireland,205,205,TRUE
+Ireland,8.68,2013,Ireland,205,205,TRUE
+Ireland,8.72,2014,Ireland,205,205,TRUE
+Ireland,8.85,2015,Ireland,205,205,TRUE
+Ireland,9.15,2016,Ireland,205,205,TRUE
+Ireland,9.15,2017,Ireland,205,205,TRUE
+Ireland,9.15,2018,Ireland,205,205,TRUE
+Ireland,9.24,2019,Ireland,205,205,TRUE
+Ireland,9.05,2020,Ireland,205,205,TRUE
+Israel,7.28,2006,Israel,666,666,TRUE
+Israel,7.48,2008,Israel,666,666,TRUE
+Israel,7.48,2010,Israel,666,666,TRUE
+Israel,7.53,2011,Israel,666,666,TRUE
+Israel,7.53,2012,Israel,666,666,TRUE
+Israel,7.53,2013,Israel,666,666,TRUE
+Israel,7.63,2014,Israel,666,666,TRUE
+Israel,7.77,2015,Israel,666,666,TRUE
+Israel,7.85,2016,Israel,666,666,TRUE
+Israel,7.79,2017,Israel,666,666,TRUE
+Israel,7.79,2018,Israel,666,666,TRUE
+Israel,7.86,2019,Israel,666,666,TRUE
+Israel,7.84,2020,Israel,666,666,TRUE
+Italy,7.73,2006,Italy/Sardinia,325,325,TRUE
+Italy,7.98,2008,Italy/Sardinia,325,325,TRUE
+Italy,7.83,2010,Italy/Sardinia,325,325,TRUE
+Italy,7.74,2011,Italy/Sardinia,325,325,TRUE
+Italy,7.74,2012,Italy/Sardinia,325,325,TRUE
+Italy,7.85,2013,Italy/Sardinia,325,325,TRUE
+Italy,7.85,2014,Italy/Sardinia,325,325,TRUE
+Italy,7.98,2015,Italy/Sardinia,325,325,TRUE
+Italy,7.98,2016,Italy/Sardinia,325,325,TRUE
+Italy,7.98,2017,Italy/Sardinia,325,325,TRUE
+Italy,7.71,2018,Italy/Sardinia,325,325,TRUE
+Italy,7.52,2019,Italy/Sardinia,325,325,TRUE
+Italy,7.74,2020,Italy/Sardinia,325,325,TRUE
+Jamaica,7.34,2006,Jamaica,51,51,TRUE
+Jamaica,7.21,2008,Jamaica,51,51,TRUE
+Jamaica,7.21,2010,Jamaica,51,51,TRUE
+Jamaica,7.13,2011,Jamaica,51,51,TRUE
+Jamaica,7.39,2012,Jamaica,51,51,TRUE
+Jamaica,7.39,2013,Jamaica,51,51,TRUE
+Jamaica,7.39,2014,Jamaica,51,51,TRUE
+Jamaica,7.39,2015,Jamaica,51,51,TRUE
+Jamaica,7.39,2016,Jamaica,51,51,TRUE
+Jamaica,7.29,2017,Jamaica,51,51,TRUE
+Jamaica,7.02,2018,Jamaica,51,51,TRUE
+Jamaica,6.96,2019,Jamaica,51,51,TRUE
+Jamaica,7.13,2020,Jamaica,51,51,TRUE
+Japan,8.15,2006,Japan,740,740,TRUE
+Japan,8.25,2008,Japan,740,740,TRUE
+Japan,8.08,2010,Japan,740,740,TRUE
+Japan,8.08,2011,Japan,740,740,TRUE
+Japan,8.08,2012,Japan,740,740,TRUE
+Japan,8.08,2013,Japan,740,740,TRUE
+Japan,8.08,2014,Japan,740,740,TRUE
+Japan,7.96,2015,Japan,740,740,TRUE
+Japan,7.99,2016,Japan,740,740,TRUE
+Japan,7.88,2017,Japan,740,740,TRUE
+Japan,7.99,2018,Japan,740,740,TRUE
+Japan,7.99,2019,Japan,740,740,TRUE
+Japan,8.13,2020,Japan,740,740,TRUE
+Jordan,3.92,2006,Jordan,663,663,TRUE
+Jordan,3.93,2008,Jordan,663,663,TRUE
+Jordan,3.74,2010,Jordan,663,663,TRUE
+Jordan,3.89,2011,Jordan,663,663,TRUE
+Jordan,3.76,2012,Jordan,663,663,TRUE
+Jordan,3.76,2013,Jordan,663,663,TRUE
+Jordan,3.76,2014,Jordan,663,663,TRUE
+Jordan,3.86,2015,Jordan,663,663,TRUE
+Jordan,3.96,2016,Jordan,663,663,TRUE
+Jordan,3.87,2017,Jordan,663,663,TRUE
+Jordan,3.93,2018,Jordan,663,663,TRUE
+Jordan,3.93,2019,Jordan,663,663,TRUE
+Jordan,3.62,2020,Jordan,663,663,TRUE
+Kazakhstan,3.62,2006,Kazakhstan,705,705,TRUE
+Kazakhstan,3.45,2008,Kazakhstan,705,705,TRUE
+Kazakhstan,3.3,2010,Kazakhstan,705,705,TRUE
+Kazakhstan,3.24,2011,Kazakhstan,705,705,TRUE
+Kazakhstan,2.95,2012,Kazakhstan,705,705,TRUE
+Kazakhstan,3.06,2013,Kazakhstan,705,705,TRUE
+Kazakhstan,3.17,2014,Kazakhstan,705,705,TRUE
+Kazakhstan,3.06,2015,Kazakhstan,705,705,TRUE
+Kazakhstan,3.06,2016,Kazakhstan,705,705,TRUE
+Kazakhstan,3.06,2017,Kazakhstan,705,705,TRUE
+Kazakhstan,2.94,2018,Kazakhstan,705,705,TRUE
+Kazakhstan,2.94,2019,Kazakhstan,705,705,TRUE
+Kazakhstan,3.14,2020,Kazakhstan,705,705,TRUE
+Kenya,5.08,2006,Kenya,501,501,TRUE
+Kenya,4.79,2008,Kenya,501,501,TRUE
+Kenya,4.71,2010,Kenya,501,501,TRUE
+Kenya,4.71,2011,Kenya,501,501,TRUE
+Kenya,4.71,2012,Kenya,501,501,TRUE
+Kenya,5.13,2013,Kenya,501,501,TRUE
+Kenya,5.13,2014,Kenya,501,501,TRUE
+Kenya,5.33,2015,Kenya,501,501,TRUE
+Kenya,5.33,2016,Kenya,501,501,TRUE
+Kenya,5.11,2017,Kenya,501,501,TRUE
+Kenya,5.11,2018,Kenya,501,501,TRUE
+Kenya,5.18,2019,Kenya,501,501,TRUE
+Kenya,5.05,2020,Kenya,501,501,TRUE
+North Korea,1.03,2006,"Korea, People's Republic of",731,731,TRUE
+North Korea,0.86,2008,"Korea, People's Republic of",731,731,TRUE
+North Korea,1.08,2010,"Korea, People's Republic of",731,731,TRUE
+North Korea,1.08,2011,"Korea, People's Republic of",731,731,TRUE
+North Korea,1.08,2012,"Korea, People's Republic of",731,731,TRUE
+North Korea,1.08,2013,"Korea, People's Republic of",731,731,TRUE
+North Korea,1.08,2014,"Korea, People's Republic of",731,731,TRUE
+North Korea,1.08,2015,"Korea, People's Republic of",731,731,TRUE
+North Korea,1.08,2016,"Korea, People's Republic of",731,731,TRUE
+North Korea,1.08,2017,"Korea, People's Republic of",731,731,TRUE
+North Korea,1.08,2018,"Korea, People's Republic of",731,731,TRUE
+North Korea,1.08,2019,"Korea, People's Republic of",731,731,TRUE
+North Korea,1.08,2020,"Korea, People's Republic of",731,731,TRUE
+South Korea,7.88,2006,"Korea, Republic of",732,732,TRUE
+South Korea,8.01,2008,"Korea, Republic of",732,732,TRUE
+South Korea,8.11,2010,"Korea, Republic of",732,732,TRUE
+South Korea,8.06,2011,"Korea, Republic of",732,732,TRUE
+South Korea,8.13,2012,"Korea, Republic of",732,732,TRUE
+South Korea,8.06,2013,"Korea, Republic of",732,732,TRUE
+South Korea,8.06,2014,"Korea, Republic of",732,732,TRUE
+South Korea,7.97,2015,"Korea, Republic of",732,732,TRUE
+South Korea,7.92,2016,"Korea, Republic of",732,732,TRUE
+South Korea,8,2017,"Korea, Republic of",732,732,TRUE
+South Korea,8,2018,"Korea, Republic of",732,732,TRUE
+South Korea,8,2019,"Korea, Republic of",732,732,TRUE
+South Korea,8.01,2020,"Korea, Republic of",732,732,TRUE
+Kuwait,3.09,2006,Kuwait,690,690,TRUE
+Kuwait,3.39,2008,Kuwait,690,690,TRUE
+Kuwait,3.88,2010,Kuwait,690,690,TRUE
+Kuwait,3.74,2011,Kuwait,690,690,TRUE
+Kuwait,3.78,2012,Kuwait,690,690,TRUE
+Kuwait,3.78,2013,Kuwait,690,690,TRUE
+Kuwait,3.78,2014,Kuwait,690,690,TRUE
+Kuwait,3.85,2015,Kuwait,690,690,TRUE
+Kuwait,3.85,2016,Kuwait,690,690,TRUE
+Kuwait,3.85,2017,Kuwait,690,690,TRUE
+Kuwait,3.85,2018,Kuwait,690,690,TRUE
+Kuwait,3.93,2019,Kuwait,690,690,TRUE
+Kuwait,3.8,2020,Kuwait,690,690,TRUE
+Kyrgyz Republic,4.08,2006,Kyrgyz Republic,703,703,TRUE
+Kyrgyz Republic,4.05,2008,Kyrgyz Republic,703,703,TRUE
+Kyrgyz Republic,4.31,2010,Kyrgyz Republic,703,703,TRUE
+Kyrgyz Republic,4.34,2011,Kyrgyz Republic,703,703,TRUE
+Kyrgyz Republic,4.69,2012,Kyrgyz Republic,703,703,TRUE
+Kyrgyz Republic,4.69,2013,Kyrgyz Republic,703,703,TRUE
+Kyrgyz Republic,5.24,2014,Kyrgyz Republic,703,703,TRUE
+Kyrgyz Republic,5.33,2015,Kyrgyz Republic,703,703,TRUE
+Kyrgyz Republic,4.93,2016,Kyrgyz Republic,703,703,TRUE
+Kyrgyz Republic,5.11,2017,Kyrgyz Republic,703,703,TRUE
+Kyrgyz Republic,5.11,2018,Kyrgyz Republic,703,703,TRUE
+Kyrgyz Republic,4.89,2019,Kyrgyz Republic,703,703,TRUE
+Kyrgyz Republic,4.21,2020,Kyrgyz Republic,703,703,TRUE
+Laos,2.1,2006,Laos,812,812,TRUE
+Laos,2.1,2008,Laos,812,812,TRUE
+Laos,2.1,2010,Laos,812,812,TRUE
+Laos,2.1,2011,Laos,812,812,TRUE
+Laos,2.32,2012,Laos,812,812,TRUE
+Laos,2.21,2013,Laos,812,812,TRUE
+Laos,2.21,2014,Laos,812,812,TRUE
+Laos,2.21,2015,Laos,812,812,TRUE
+Laos,2.37,2016,Laos,812,812,TRUE
+Laos,2.37,2017,Laos,812,812,TRUE
+Laos,2.37,2018,Laos,812,812,TRUE
+Laos,2.14,2019,Laos,812,812,TRUE
+Laos,1.77,2020,Laos,812,812,TRUE
+Latvia,7.37,2006,Latvia,367,367,TRUE
+Latvia,7.23,2008,Latvia,367,367,TRUE
+Latvia,7.05,2010,Latvia,367,367,TRUE
+Latvia,7.05,2011,Latvia,367,367,TRUE
+Latvia,7.05,2012,Latvia,367,367,TRUE
+Latvia,7.05,2013,Latvia,367,367,TRUE
+Latvia,7.48,2014,Latvia,367,367,TRUE
+Latvia,7.37,2015,Latvia,367,367,TRUE
+Latvia,7.31,2016,Latvia,367,367,TRUE
+Latvia,7.25,2017,Latvia,367,367,TRUE
+Latvia,7.38,2018,Latvia,367,367,TRUE
+Latvia,7.49,2019,Latvia,367,367,TRUE
+Latvia,7.24,2020,Latvia,367,367,TRUE
+Lebanon,5.82,2006,Lebanon,660,660,TRUE
+Lebanon,5.62,2008,Lebanon,660,660,TRUE
+Lebanon,5.82,2010,Lebanon,660,660,TRUE
+Lebanon,5.32,2011,Lebanon,660,660,TRUE
+Lebanon,5.05,2012,Lebanon,660,660,TRUE
+Lebanon,5.05,2013,Lebanon,660,660,TRUE
+Lebanon,5.12,2014,Lebanon,660,660,TRUE
+Lebanon,4.86,2015,Lebanon,660,660,TRUE
+Lebanon,4.86,2016,Lebanon,660,660,TRUE
+Lebanon,4.72,2017,Lebanon,660,660,TRUE
+Lebanon,4.63,2018,Lebanon,660,660,TRUE
+Lebanon,4.36,2019,Lebanon,660,660,TRUE
+Lebanon,4.16,2020,Lebanon,660,660,TRUE
+Lesotho,6.48,2006,Lesotho,570,570,TRUE
+Lesotho,6.29,2008,Lesotho,570,570,TRUE
+Lesotho,6.02,2010,Lesotho,570,570,TRUE
+Lesotho,6.33,2011,Lesotho,570,570,TRUE
+Lesotho,6.66,2012,Lesotho,570,570,TRUE
+Lesotho,6.66,2013,Lesotho,570,570,TRUE
+Lesotho,6.66,2014,Lesotho,570,570,TRUE
+Lesotho,6.59,2015,Lesotho,570,570,TRUE
+Lesotho,6.59,2016,Lesotho,570,570,TRUE
+Lesotho,6.64,2017,Lesotho,570,570,TRUE
+Lesotho,6.64,2018,Lesotho,570,570,TRUE
+Lesotho,6.54,2019,Lesotho,570,570,TRUE
+Lesotho,6.3,2020,Lesotho,570,570,TRUE
+Liberia,5.22,2006,Liberia,450,450,TRUE
+Liberia,5.25,2008,Liberia,450,450,TRUE
+Liberia,5.07,2010,Liberia,450,450,TRUE
+Liberia,5.07,2011,Liberia,450,450,TRUE
+Liberia,4.95,2012,Liberia,450,450,TRUE
+Liberia,4.95,2013,Liberia,450,450,TRUE
+Liberia,4.95,2014,Liberia,450,450,TRUE
+Liberia,4.95,2015,Liberia,450,450,TRUE
+Liberia,5.31,2016,Liberia,450,450,TRUE
+Liberia,5.23,2017,Liberia,450,450,TRUE
+Liberia,5.35,2018,Liberia,450,450,TRUE
+Liberia,5.45,2019,Liberia,450,450,TRUE
+Liberia,5.32,2020,Liberia,450,450,TRUE
+Libya,1.84,2006,Libya,620,620,TRUE
+Libya,2,2008,Libya,620,620,TRUE
+Libya,1.94,2010,Libya,620,620,TRUE
+Libya,3.55,2011,Libya,620,620,TRUE
+Libya,5.15,2012,Libya,620,620,TRUE
+Libya,4.82,2013,Libya,620,620,TRUE
+Libya,3.8,2014,Libya,620,620,TRUE
+Libya,2.25,2015,Libya,620,620,TRUE
+Libya,2.25,2016,Libya,620,620,TRUE
+Libya,2.32,2017,Libya,620,620,TRUE
+Libya,2.19,2018,Libya,620,620,TRUE
+Libya,2.02,2019,Libya,620,620,TRUE
+Libya,1.95,2020,Libya,620,620,TRUE
+Lithuania,7.43,2006,Lithuania,368,368,TRUE
+Lithuania,7.36,2008,Lithuania,368,368,TRUE
+Lithuania,7.24,2010,Lithuania,368,368,TRUE
+Lithuania,7.24,2011,Lithuania,368,368,TRUE
+Lithuania,7.24,2012,Lithuania,368,368,TRUE
+Lithuania,7.54,2013,Lithuania,368,368,TRUE
+Lithuania,7.54,2014,Lithuania,368,368,TRUE
+Lithuania,7.54,2015,Lithuania,368,368,TRUE
+Lithuania,7.47,2016,Lithuania,368,368,TRUE
+Lithuania,7.41,2017,Lithuania,368,368,TRUE
+Lithuania,7.5,2018,Lithuania,368,368,TRUE
+Lithuania,7.5,2019,Lithuania,368,368,TRUE
+Lithuania,7.13,2020,Lithuania,368,368,TRUE
+Luxembourg,9.1,2006,Luxembourg,212,212,TRUE
+Luxembourg,9.1,2008,Luxembourg,212,212,TRUE
+Luxembourg,8.88,2010,Luxembourg,212,212,TRUE
+Luxembourg,8.88,2011,Luxembourg,212,212,TRUE
+Luxembourg,8.88,2012,Luxembourg,212,212,TRUE
+Luxembourg,8.88,2013,Luxembourg,212,212,TRUE
+Luxembourg,8.88,2014,Luxembourg,212,212,TRUE
+Luxembourg,8.88,2015,Luxembourg,212,212,TRUE
+Luxembourg,8.81,2016,Luxembourg,212,212,TRUE
+Luxembourg,8.81,2017,Luxembourg,212,212,TRUE
+Luxembourg,8.81,2018,Luxembourg,212,212,TRUE
+Luxembourg,8.81,2019,Luxembourg,212,212,TRUE
+Luxembourg,8.68,2020,Luxembourg,212,212,TRUE
+North Macedonia,6.33,2006,Macedonia (Former Yugoslav Republic of),343,343,TRUE
+North Macedonia,6.21,2008,Macedonia (Former Yugoslav Republic of),343,343,TRUE
+North Macedonia,6.16,2010,Macedonia (Former Yugoslav Republic of),343,343,TRUE
+North Macedonia,6.16,2011,Macedonia (Former Yugoslav Republic of),343,343,TRUE
+North Macedonia,6.16,2012,Macedonia (Former Yugoslav Republic of),343,343,TRUE
+North Macedonia,6.16,2013,Macedonia (Former Yugoslav Republic of),343,343,TRUE
+North Macedonia,6.25,2014,Macedonia (Former Yugoslav Republic of),343,343,TRUE
+North Macedonia,6.02,2015,Macedonia (Former Yugoslav Republic of),343,343,TRUE
+North Macedonia,5.23,2016,Macedonia (Former Yugoslav Republic of),343,343,TRUE
+North Macedonia,5.57,2017,Macedonia (Former Yugoslav Republic of),343,343,TRUE
+North Macedonia,5.87,2018,Macedonia (Former Yugoslav Republic of),343,343,TRUE
+North Macedonia,5.97,2019,Macedonia (Former Yugoslav Republic of),343,343,TRUE
+North Macedonia,5.89,2020,Macedonia (Former Yugoslav Republic of),343,343,TRUE
+Madagascar,5.82,2006,Madagascar (Malagasy),580,580,TRUE
+Madagascar,5.57,2008,Madagascar (Malagasy),580,580,TRUE
+Madagascar,3.94,2010,Madagascar (Malagasy),580,580,TRUE
+Madagascar,3.93,2011,Madagascar (Malagasy),580,580,TRUE
+Madagascar,3.93,2012,Madagascar (Malagasy),580,580,TRUE
+Madagascar,4.32,2013,Madagascar (Malagasy),580,580,TRUE
+Madagascar,4.42,2014,Madagascar (Malagasy),580,580,TRUE
+Madagascar,4.85,2015,Madagascar (Malagasy),580,580,TRUE
+Madagascar,5.07,2016,Madagascar (Malagasy),580,580,TRUE
+Madagascar,5.11,2017,Madagascar (Malagasy),580,580,TRUE
+Madagascar,5.22,2018,Madagascar (Malagasy),580,580,TRUE
+Madagascar,5.64,2019,Madagascar (Malagasy),580,580,TRUE
+Madagascar,5.7,2020,Madagascar (Malagasy),580,580,TRUE
+Malawi,4.97,2006,Malawi,553,553,TRUE
+Malawi,5.13,2008,Malawi,553,553,TRUE
+Malawi,5.84,2010,Malawi,553,553,TRUE
+Malawi,5.84,2011,Malawi,553,553,TRUE
+Malawi,6.08,2012,Malawi,553,553,TRUE
+Malawi,6,2013,Malawi,553,553,TRUE
+Malawi,5.66,2014,Malawi,553,553,TRUE
+Malawi,5.55,2015,Malawi,553,553,TRUE
+Malawi,5.55,2016,Malawi,553,553,TRUE
+Malawi,5.49,2017,Malawi,553,553,TRUE
+Malawi,5.49,2018,Malawi,553,553,TRUE
+Malawi,5.5,2019,Malawi,553,553,TRUE
+Malawi,5.74,2020,Malawi,553,553,TRUE
+Malaysia,5.98,2006,Malaysia,820,820,TRUE
+Malaysia,6.36,2008,Malaysia,820,820,TRUE
+Malaysia,6.19,2010,Malaysia,820,820,TRUE
+Malaysia,6.19,2011,Malaysia,820,820,TRUE
+Malaysia,6.41,2012,Malaysia,820,820,TRUE
+Malaysia,6.49,2013,Malaysia,820,820,TRUE
+Malaysia,6.49,2014,Malaysia,820,820,TRUE
+Malaysia,6.43,2015,Malaysia,820,820,TRUE
+Malaysia,6.54,2016,Malaysia,820,820,TRUE
+Malaysia,6.54,2017,Malaysia,820,820,TRUE
+Malaysia,6.88,2018,Malaysia,820,820,TRUE
+Malaysia,7.16,2019,Malaysia,820,820,TRUE
+Malaysia,7.19,2020,Malaysia,820,820,TRUE
+Mali,5.99,2006,Mali,432,432,TRUE
+Mali,5.87,2008,Mali,432,432,TRUE
+Mali,6.01,2010,Mali,432,432,TRUE
+Mali,6.36,2011,Mali,432,432,TRUE
+Mali,5.12,2012,Mali,432,432,TRUE
+Mali,5.9,2013,Mali,432,432,TRUE
+Mali,5.79,2014,Mali,432,432,TRUE
+Mali,5.7,2015,Mali,432,432,TRUE
+Mali,5.7,2016,Mali,432,432,TRUE
+Mali,5.64,2017,Mali,432,432,TRUE
+Mali,5.41,2018,Mali,432,432,TRUE
+Mali,4.92,2019,Mali,432,432,TRUE
+Mali,3.93,2020,Mali,432,432,TRUE
+Malta,8.39,2006,Malta,338,338,TRUE
+Malta,8.39,2008,Malta,338,338,TRUE
+Malta,8.28,2010,Malta,338,338,TRUE
+Malta,8.28,2011,Malta,338,338,TRUE
+Malta,8.28,2012,Malta,338,338,TRUE
+Malta,8.28,2013,Malta,338,338,TRUE
+Malta,8.39,2014,Malta,338,338,TRUE
+Malta,8.39,2015,Malta,338,338,TRUE
+Malta,8.39,2016,Malta,338,338,TRUE
+Malta,8.15,2017,Malta,338,338,TRUE
+Malta,8.21,2018,Malta,338,338,TRUE
+Malta,7.95,2019,Malta,338,338,TRUE
+Malta,7.68,2020,Malta,338,338,TRUE
+Mauritania,3.12,2006,Mauritania,435,435,TRUE
+Mauritania,3.91,2008,Mauritania,435,435,TRUE
+Mauritania,3.86,2010,Mauritania,435,435,TRUE
+Mauritania,4.17,2011,Mauritania,435,435,TRUE
+Mauritania,4.17,2012,Mauritania,435,435,TRUE
+Mauritania,4.17,2013,Mauritania,435,435,TRUE
+Mauritania,4.17,2014,Mauritania,435,435,TRUE
+Mauritania,3.96,2015,Mauritania,435,435,TRUE
+Mauritania,3.96,2016,Mauritania,435,435,TRUE
+Mauritania,3.82,2017,Mauritania,435,435,TRUE
+Mauritania,3.82,2018,Mauritania,435,435,TRUE
+Mauritania,3.92,2019,Mauritania,435,435,TRUE
+Mauritania,3.92,2020,Mauritania,435,435,TRUE
+Mauritius,8.04,2006,Mauritius,590,590,TRUE
+Mauritius,8.04,2008,Mauritius,590,590,TRUE
+Mauritius,8.04,2010,Mauritius,590,590,TRUE
+Mauritius,8.04,2011,Mauritius,590,590,TRUE
+Mauritius,8.17,2012,Mauritius,590,590,TRUE
+Mauritius,8.17,2013,Mauritius,590,590,TRUE
+Mauritius,8.17,2014,Mauritius,590,590,TRUE
+Mauritius,8.28,2015,Mauritius,590,590,TRUE
+Mauritius,8.28,2016,Mauritius,590,590,TRUE
+Mauritius,8.22,2017,Mauritius,590,590,TRUE
+Mauritius,8.22,2018,Mauritius,590,590,TRUE
+Mauritius,8.22,2019,Mauritius,590,590,TRUE
+Mauritius,8.14,2020,Mauritius,590,590,TRUE
+Mexico,6.67,2006,Mexico,70,70,TRUE
+Mexico,6.78,2008,Mexico,70,70,TRUE
+Mexico,6.93,2010,Mexico,70,70,TRUE
+Mexico,6.93,2011,Mexico,70,70,TRUE
+Mexico,6.9,2012,Mexico,70,70,TRUE
+Mexico,6.91,2013,Mexico,70,70,TRUE
+Mexico,6.68,2014,Mexico,70,70,TRUE
+Mexico,6.55,2015,Mexico,70,70,TRUE
+Mexico,6.47,2016,Mexico,70,70,TRUE
+Mexico,6.41,2017,Mexico,70,70,TRUE
+Mexico,6.19,2018,Mexico,70,70,TRUE
+Mexico,6.09,2019,Mexico,70,70,TRUE
+Mexico,6.07,2020,Mexico,70,70,TRUE
+Moldova,6.5,2006,Moldova,359,359,TRUE
+Moldova,6.5,2008,Moldova,359,359,TRUE
+Moldova,6.33,2010,Moldova,359,359,TRUE
+Moldova,6.32,2011,Moldova,359,359,TRUE
+Moldova,6.32,2012,Moldova,359,359,TRUE
+Moldova,6.32,2013,Moldova,359,359,TRUE
+Moldova,6.32,2014,Moldova,359,359,TRUE
+Moldova,6.35,2015,Moldova,359,359,TRUE
+Moldova,6.01,2016,Moldova,359,359,TRUE
+Moldova,5.94,2017,Moldova,359,359,TRUE
+Moldova,5.85,2018,Moldova,359,359,TRUE
+Moldova,5.75,2019,Moldova,359,359,TRUE
+Moldova,5.78,2020,Moldova,359,359,TRUE
+Mongolia,6.6,2006,Mongolia,712,712,TRUE
+Mongolia,6.6,2008,Mongolia,712,712,TRUE
+Mongolia,6.36,2010,Mongolia,712,712,TRUE
+Mongolia,6.23,2011,Mongolia,712,712,TRUE
+Mongolia,6.35,2012,Mongolia,712,712,TRUE
+Mongolia,6.51,2013,Mongolia,712,712,TRUE
+Mongolia,6.62,2014,Mongolia,712,712,TRUE
+Mongolia,6.62,2015,Mongolia,712,712,TRUE
+Mongolia,6.62,2016,Mongolia,712,712,TRUE
+Mongolia,6.5,2017,Mongolia,712,712,TRUE
+Mongolia,6.5,2018,Mongolia,712,712,TRUE
+Mongolia,6.5,2019,Mongolia,712,712,TRUE
+Mongolia,6.48,2020,Mongolia,712,712,TRUE
+Montenegro,6.57,2006,Montenegro,341,341,TRUE
+Montenegro,6.43,2008,Montenegro,341,341,TRUE
+Montenegro,6.27,2010,Montenegro,341,341,TRUE
+Montenegro,6.15,2011,Montenegro,341,341,TRUE
+Montenegro,6.05,2012,Montenegro,341,341,TRUE
+Montenegro,5.94,2013,Montenegro,341,341,TRUE
+Montenegro,5.94,2014,Montenegro,341,341,TRUE
+Montenegro,6.01,2015,Montenegro,341,341,TRUE
+Montenegro,5.72,2016,Montenegro,341,341,TRUE
+Montenegro,5.69,2017,Montenegro,341,341,TRUE
+Montenegro,5.74,2018,Montenegro,341,341,TRUE
+Montenegro,5.65,2019,Montenegro,341,341,TRUE
+Montenegro,5.77,2020,Montenegro,341,341,TRUE
+Morocco,3.9,2006,Morocco,600,600,TRUE
+Morocco,3.88,2008,Morocco,600,600,TRUE
+Morocco,3.79,2010,Morocco,600,600,TRUE
+Morocco,3.83,2011,Morocco,600,600,TRUE
+Morocco,4.07,2012,Morocco,600,600,TRUE
+Morocco,4.07,2013,Morocco,600,600,TRUE
+Morocco,4,2014,Morocco,600,600,TRUE
+Morocco,4.66,2015,Morocco,600,600,TRUE
+Morocco,4.77,2016,Morocco,600,600,TRUE
+Morocco,4.87,2017,Morocco,600,600,TRUE
+Morocco,4.99,2018,Morocco,600,600,TRUE
+Morocco,5.1,2019,Morocco,600,600,TRUE
+Morocco,5.04,2020,Morocco,600,600,TRUE
+Mozambique,5.28,2006,Mozambique,541,541,TRUE
+Mozambique,5.49,2008,Mozambique,541,541,TRUE
+Mozambique,4.9,2010,Mozambique,541,541,TRUE
+Mozambique,4.9,2011,Mozambique,541,541,TRUE
+Mozambique,4.88,2012,Mozambique,541,541,TRUE
+Mozambique,4.77,2013,Mozambique,541,541,TRUE
+Mozambique,4.66,2014,Mozambique,541,541,TRUE
+Mozambique,4.6,2015,Mozambique,541,541,TRUE
+Mozambique,4.02,2016,Mozambique,541,541,TRUE
+Mozambique,4.02,2017,Mozambique,541,541,TRUE
+Mozambique,3.85,2018,Mozambique,541,541,TRUE
+Mozambique,3.65,2019,Mozambique,541,541,TRUE
+Mozambique,3.51,2020,Mozambique,541,541,TRUE
+Myanmar,1.77,2006,Myanmar (Burma),775,775,TRUE
+Myanmar,1.77,2008,Myanmar (Burma),775,775,TRUE
+Myanmar,1.77,2010,Myanmar (Burma),775,775,TRUE
+Myanmar,1.77,2011,Myanmar (Burma),775,775,TRUE
+Myanmar,2.35,2012,Myanmar (Burma),775,775,TRUE
+Myanmar,2.76,2013,Myanmar (Burma),775,775,TRUE
+Myanmar,3.05,2014,Myanmar (Burma),775,775,TRUE
+Myanmar,4.14,2015,Myanmar (Burma),775,775,TRUE
+Myanmar,4.2,2016,Myanmar (Burma),775,775,TRUE
+Myanmar,3.83,2017,Myanmar (Burma),775,775,TRUE
+Myanmar,3.83,2018,Myanmar (Burma),775,775,TRUE
+Myanmar,3.55,2019,Myanmar (Burma),775,775,TRUE
+Myanmar,3.04,2020,Myanmar (Burma),775,775,TRUE
+Namibia,6.54,2006,Namibia,565,565,TRUE
+Namibia,6.48,2008,Namibia,565,565,TRUE
+Namibia,6.23,2010,Namibia,565,565,TRUE
+Namibia,6.24,2011,Namibia,565,565,TRUE
+Namibia,6.24,2012,Namibia,565,565,TRUE
+Namibia,6.24,2013,Namibia,565,565,TRUE
+Namibia,6.24,2014,Namibia,565,565,TRUE
+Namibia,6.31,2015,Namibia,565,565,TRUE
+Namibia,6.31,2016,Namibia,565,565,TRUE
+Namibia,6.31,2017,Namibia,565,565,TRUE
+Namibia,6.25,2018,Namibia,565,565,TRUE
+Namibia,6.43,2019,Namibia,565,565,TRUE
+Namibia,6.52,2020,Namibia,565,565,TRUE
+Nepal,3.42,2006,Nepal,790,790,TRUE
+Nepal,4.05,2008,Nepal,790,790,TRUE
+Nepal,4.24,2010,Nepal,790,790,TRUE
+Nepal,4.24,2011,Nepal,790,790,TRUE
+Nepal,4.16,2012,Nepal,790,790,TRUE
+Nepal,4.77,2013,Nepal,790,790,TRUE
+Nepal,4.77,2014,Nepal,790,790,TRUE
+Nepal,4.77,2015,Nepal,790,790,TRUE
+Nepal,4.86,2016,Nepal,790,790,TRUE
+Nepal,5.18,2017,Nepal,790,790,TRUE
+Nepal,5.18,2018,Nepal,790,790,TRUE
+Nepal,5.28,2019,Nepal,790,790,TRUE
+Nepal,5.22,2020,Nepal,790,790,TRUE
+Netherlands,9.66,2006,Netherlands,210,210,TRUE
+Netherlands,9.53,2008,Netherlands,210,210,TRUE
+Netherlands,8.99,2010,Netherlands,210,210,TRUE
+Netherlands,8.99,2011,Netherlands,210,210,TRUE
+Netherlands,8.99,2012,Netherlands,210,210,TRUE
+Netherlands,8.84,2013,Netherlands,210,210,TRUE
+Netherlands,8.92,2014,Netherlands,210,210,TRUE
+Netherlands,8.92,2015,Netherlands,210,210,TRUE
+Netherlands,8.8,2016,Netherlands,210,210,TRUE
+Netherlands,8.89,2017,Netherlands,210,210,TRUE
+Netherlands,8.89,2018,Netherlands,210,210,TRUE
+Netherlands,9.01,2019,Netherlands,210,210,TRUE
+Netherlands,8.96,2020,Netherlands,210,210,TRUE
+New Zealand,9.01,2006,New Zealand,920,920,TRUE
+New Zealand,9.19,2008,New Zealand,920,920,TRUE
+New Zealand,9.26,2010,New Zealand,920,920,TRUE
+New Zealand,9.26,2011,New Zealand,920,920,TRUE
+New Zealand,9.26,2012,New Zealand,920,920,TRUE
+New Zealand,9.26,2013,New Zealand,920,920,TRUE
+New Zealand,9.26,2014,New Zealand,920,920,TRUE
+New Zealand,9.26,2015,New Zealand,920,920,TRUE
+New Zealand,9.26,2016,New Zealand,920,920,TRUE
+New Zealand,9.26,2017,New Zealand,920,920,TRUE
+New Zealand,9.26,2018,New Zealand,920,920,TRUE
+New Zealand,9.26,2019,New Zealand,920,920,TRUE
+New Zealand,9.25,2020,New Zealand,920,920,TRUE
+Nicaragua,5.68,2006,Nicaragua,93,93,TRUE
+Nicaragua,6.07,2008,Nicaragua,93,93,TRUE
+Nicaragua,5.73,2010,Nicaragua,93,93,TRUE
+Nicaragua,5.56,2011,Nicaragua,93,93,TRUE
+Nicaragua,5.56,2012,Nicaragua,93,93,TRUE
+Nicaragua,5.46,2013,Nicaragua,93,93,TRUE
+Nicaragua,5.32,2014,Nicaragua,93,93,TRUE
+Nicaragua,5.26,2015,Nicaragua,93,93,TRUE
+Nicaragua,4.81,2016,Nicaragua,93,93,TRUE
+Nicaragua,4.66,2017,Nicaragua,93,93,TRUE
+Nicaragua,3.63,2018,Nicaragua,93,93,TRUE
+Nicaragua,3.55,2019,Nicaragua,93,93,TRUE
+Nicaragua,3.6,2020,Nicaragua,93,93,TRUE
+Niger,3.54,2006,Niger,436,436,TRUE
+Niger,3.41,2008,Niger,436,436,TRUE
+Niger,3.38,2010,Niger,436,436,TRUE
+Niger,4.16,2011,Niger,436,436,TRUE
+Niger,4.16,2012,Niger,436,436,TRUE
+Niger,4.08,2013,Niger,436,436,TRUE
+Niger,4.02,2014,Niger,436,436,TRUE
+Niger,3.85,2015,Niger,436,436,TRUE
+Niger,3.96,2016,Niger,436,436,TRUE
+Niger,3.76,2017,Niger,436,436,TRUE
+Niger,3.76,2018,Niger,436,436,TRUE
+Niger,3.29,2019,Niger,436,436,TRUE
+Niger,3.29,2020,Niger,436,436,TRUE
+Nigeria,3.52,2006,Nigeria,475,475,TRUE
+Nigeria,3.53,2008,Nigeria,475,475,TRUE
+Nigeria,3.47,2010,Nigeria,475,475,TRUE
+Nigeria,3.83,2011,Nigeria,475,475,TRUE
+Nigeria,3.77,2012,Nigeria,475,475,TRUE
+Nigeria,3.77,2013,Nigeria,475,475,TRUE
+Nigeria,3.76,2014,Nigeria,475,475,TRUE
+Nigeria,4.62,2015,Nigeria,475,475,TRUE
+Nigeria,4.5,2016,Nigeria,475,475,TRUE
+Nigeria,4.44,2017,Nigeria,475,475,TRUE
+Nigeria,4.44,2018,Nigeria,475,475,TRUE
+Nigeria,4.12,2019,Nigeria,475,475,TRUE
+Nigeria,4.1,2020,Nigeria,475,475,TRUE
+Norway,9.55,2006,Norway,385,385,TRUE
+Norway,9.68,2008,Norway,385,385,TRUE
+Norway,9.8,2010,Norway,385,385,TRUE
+Norway,9.8,2011,Norway,385,385,TRUE
+Norway,9.93,2012,Norway,385,385,TRUE
+Norway,9.93,2013,Norway,385,385,TRUE
+Norway,9.93,2014,Norway,385,385,TRUE
+Norway,9.93,2015,Norway,385,385,TRUE
+Norway,9.93,2016,Norway,385,385,TRUE
+Norway,9.87,2017,Norway,385,385,TRUE
+Norway,9.87,2018,Norway,385,385,TRUE
+Norway,9.87,2019,Norway,385,385,TRUE
+Norway,9.81,2020,Norway,385,385,TRUE
+Oman,2.77,2006,Oman,698,698,TRUE
+Oman,2.98,2008,Oman,698,698,TRUE
+Oman,2.86,2010,Oman,698,698,TRUE
+Oman,3.26,2011,Oman,698,698,TRUE
+Oman,3.26,2012,Oman,698,698,TRUE
+Oman,3.26,2013,Oman,698,698,TRUE
+Oman,3.15,2014,Oman,698,698,TRUE
+Oman,3.04,2015,Oman,698,698,TRUE
+Oman,3.04,2016,Oman,698,698,TRUE
+Oman,3.04,2017,Oman,698,698,TRUE
+Oman,3.04,2018,Oman,698,698,TRUE
+Oman,3.06,2019,Oman,698,698,TRUE
+Oman,3,2020,Oman,698,698,TRUE
+Pakistan,3.92,2006,Pakistan,770,770,TRUE
+Pakistan,4.46,2008,Pakistan,770,770,TRUE
+Pakistan,4.55,2010,Pakistan,770,770,TRUE
+Pakistan,4.55,2011,Pakistan,770,770,TRUE
+Pakistan,4.57,2012,Pakistan,770,770,TRUE
+Pakistan,4.64,2013,Pakistan,770,770,TRUE
+Pakistan,4.64,2014,Pakistan,770,770,TRUE
+Pakistan,4.4,2015,Pakistan,770,770,TRUE
+Pakistan,4.33,2016,Pakistan,770,770,TRUE
+Pakistan,4.26,2017,Pakistan,770,770,TRUE
+Pakistan,4.17,2018,Pakistan,770,770,TRUE
+Pakistan,4.25,2019,Pakistan,770,770,TRUE
+Pakistan,4.31,2020,Pakistan,770,770,TRUE
+Palestine,6.01,2006,"Palestine, State of",NA,NA,FALSE
+Palestine,5.83,2008,"Palestine, State of",NA,NA,FALSE
+Palestine,5.44,2010,"Palestine, State of",NA,NA,FALSE
+Palestine,4.97,2011,"Palestine, State of",NA,NA,FALSE
+Palestine,4.8,2012,"Palestine, State of",NA,NA,FALSE
+Palestine,4.8,2013,"Palestine, State of",NA,NA,FALSE
+Palestine,4.72,2014,"Palestine, State of",NA,NA,FALSE
+Palestine,4.57,2015,"Palestine, State of",NA,NA,FALSE
+Palestine,4.49,2016,"Palestine, State of",NA,NA,FALSE
+Palestine,4.46,2017,"Palestine, State of",NA,NA,FALSE
+Palestine,4.39,2018,"Palestine, State of",NA,NA,FALSE
+Palestine,3.89,2019,"Palestine, State of",NA,NA,FALSE
+Palestine,3.83,2020,"Palestine, State of",NA,NA,FALSE
+Panama,7.35,2006,Panama,95,95,TRUE
+Panama,7.35,2008,Panama,95,95,TRUE
+Panama,7.15,2010,Panama,95,95,TRUE
+Panama,7.08,2011,Panama,95,95,TRUE
+Panama,7.08,2012,Panama,95,95,TRUE
+Panama,7.08,2013,Panama,95,95,TRUE
+Panama,7.08,2014,Panama,95,95,TRUE
+Panama,7.19,2015,Panama,95,95,TRUE
+Panama,7.13,2016,Panama,95,95,TRUE
+Panama,7.08,2017,Panama,95,95,TRUE
+Panama,7.05,2018,Panama,95,95,TRUE
+Panama,7.05,2019,Panama,95,95,TRUE
+Panama,7.18,2020,Panama,95,95,TRUE
+Papua New Guinea,6.54,2006,Papua New Guinea,910,910,TRUE
+Papua New Guinea,6.54,2008,Papua New Guinea,910,910,TRUE
+Papua New Guinea,6.54,2010,Papua New Guinea,910,910,TRUE
+Papua New Guinea,6.32,2011,Papua New Guinea,910,910,TRUE
+Papua New Guinea,6.32,2012,Papua New Guinea,910,910,TRUE
+Papua New Guinea,6.36,2013,Papua New Guinea,910,910,TRUE
+Papua New Guinea,6.03,2014,Papua New Guinea,910,910,TRUE
+Papua New Guinea,6.03,2015,Papua New Guinea,910,910,TRUE
+Papua New Guinea,6.03,2016,Papua New Guinea,910,910,TRUE
+Papua New Guinea,6.03,2017,Papua New Guinea,910,910,TRUE
+Papua New Guinea,6.03,2018,Papua New Guinea,910,910,TRUE
+Papua New Guinea,6.03,2019,Papua New Guinea,910,910,TRUE
+Papua New Guinea,6.1,2020,Papua New Guinea,910,910,TRUE
+Paraguay,6.16,2006,Paraguay,150,150,TRUE
+Paraguay,6.4,2008,Paraguay,150,150,TRUE
+Paraguay,6.4,2010,Paraguay,150,150,TRUE
+Paraguay,6.4,2011,Paraguay,150,150,TRUE
+Paraguay,6.26,2012,Paraguay,150,150,TRUE
+Paraguay,6.26,2013,Paraguay,150,150,TRUE
+Paraguay,6.26,2014,Paraguay,150,150,TRUE
+Paraguay,6.33,2015,Paraguay,150,150,TRUE
+Paraguay,6.27,2016,Paraguay,150,150,TRUE
+Paraguay,6.31,2017,Paraguay,150,150,TRUE
+Paraguay,6.24,2018,Paraguay,150,150,TRUE
+Paraguay,6.24,2019,Paraguay,150,150,TRUE
+Paraguay,6.18,2020,Paraguay,150,150,TRUE
+Peru,6.11,2006,Peru,135,135,TRUE
+Peru,6.31,2008,Peru,135,135,TRUE
+Peru,6.4,2010,Peru,135,135,TRUE
+Peru,6.59,2011,Peru,135,135,TRUE
+Peru,6.47,2012,Peru,135,135,TRUE
+Peru,6.54,2013,Peru,135,135,TRUE
+Peru,6.54,2014,Peru,135,135,TRUE
+Peru,6.58,2015,Peru,135,135,TRUE
+Peru,6.65,2016,Peru,135,135,TRUE
+Peru,6.49,2017,Peru,135,135,TRUE
+Peru,6.6,2018,Peru,135,135,TRUE
+Peru,6.6,2019,Peru,135,135,TRUE
+Peru,6.53,2020,Peru,135,135,TRUE
+Philippines,6.48,2006,Philippines,840,840,TRUE
+Philippines,6.12,2008,Philippines,840,840,TRUE
+Philippines,6.12,2010,Philippines,840,840,TRUE
+Philippines,6.12,2011,Philippines,840,840,TRUE
+Philippines,6.3,2012,Philippines,840,840,TRUE
+Philippines,6.41,2013,Philippines,840,840,TRUE
+Philippines,6.77,2014,Philippines,840,840,TRUE
+Philippines,6.84,2015,Philippines,840,840,TRUE
+Philippines,6.94,2016,Philippines,840,840,TRUE
+Philippines,6.71,2017,Philippines,840,840,TRUE
+Philippines,6.71,2018,Philippines,840,840,TRUE
+Philippines,6.64,2019,Philippines,840,840,TRUE
+Philippines,6.56,2020,Philippines,840,840,TRUE
+Poland,7.3,2006,Poland,290,290,TRUE
+Poland,7.3,2008,Poland,290,290,TRUE
+Poland,7.05,2010,Poland,290,290,TRUE
+Poland,7.12,2011,Poland,290,290,TRUE
+Poland,7.12,2012,Poland,290,290,TRUE
+Poland,7.12,2013,Poland,290,290,TRUE
+Poland,7.47,2014,Poland,290,290,TRUE
+Poland,7.09,2015,Poland,290,290,TRUE
+Poland,6.83,2016,Poland,290,290,TRUE
+Poland,6.67,2017,Poland,290,290,TRUE
+Poland,6.67,2018,Poland,290,290,TRUE
+Poland,6.62,2019,Poland,290,290,TRUE
+Poland,6.85,2020,Poland,290,290,TRUE
+Portugal,8.16,2006,Portugal,235,235,TRUE
+Portugal,8.05,2008,Portugal,235,235,TRUE
+Portugal,8.02,2010,Portugal,235,235,TRUE
+Portugal,7.81,2011,Portugal,235,235,TRUE
+Portugal,7.92,2012,Portugal,235,235,TRUE
+Portugal,7.65,2013,Portugal,235,235,TRUE
+Portugal,7.79,2014,Portugal,235,235,TRUE
+Portugal,7.79,2015,Portugal,235,235,TRUE
+Portugal,7.86,2016,Portugal,235,235,TRUE
+Portugal,7.84,2017,Portugal,235,235,TRUE
+Portugal,7.84,2018,Portugal,235,235,TRUE
+Portugal,8.03,2019,Portugal,235,235,TRUE
+Portugal,7.9,2020,Portugal,235,235,TRUE
+Qatar,2.78,2006,Qatar,694,694,TRUE
+Qatar,2.92,2008,Qatar,694,694,TRUE
+Qatar,3.09,2010,Qatar,694,694,TRUE
+Qatar,3.18,2011,Qatar,694,694,TRUE
+Qatar,3.18,2012,Qatar,694,694,TRUE
+Qatar,3.18,2013,Qatar,694,694,TRUE
+Qatar,3.18,2014,Qatar,694,694,TRUE
+Qatar,3.18,2015,Qatar,694,694,TRUE
+Qatar,3.18,2016,Qatar,694,694,TRUE
+Qatar,3.19,2017,Qatar,694,694,TRUE
+Qatar,3.19,2018,Qatar,694,694,TRUE
+Qatar,3.19,2019,Qatar,694,694,TRUE
+Qatar,3.24,2020,Qatar,694,694,TRUE
+Romania,7.06,2006,Romania,360,360,TRUE
+Romania,7.06,2008,Romania,360,360,TRUE
+Romania,6.6,2010,Romania,360,360,TRUE
+Romania,6.54,2011,Romania,360,360,TRUE
+Romania,6.54,2012,Romania,360,360,TRUE
+Romania,6.54,2013,Romania,360,360,TRUE
+Romania,6.68,2014,Romania,360,360,TRUE
+Romania,6.68,2015,Romania,360,360,TRUE
+Romania,6.62,2016,Romania,360,360,TRUE
+Romania,6.44,2017,Romania,360,360,TRUE
+Romania,6.38,2018,Romania,360,360,TRUE
+Romania,6.49,2019,Romania,360,360,TRUE
+Romania,6.4,2020,Romania,360,360,TRUE
+Russia,5.02,2006,Russia (Soviet Union),365,365,TRUE
+Russia,4.48,2008,Russia (Soviet Union),365,365,TRUE
+Russia,4.26,2010,Russia (Soviet Union),365,365,TRUE
+Russia,3.92,2011,Russia (Soviet Union),365,365,TRUE
+Russia,3.74,2012,Russia (Soviet Union),365,365,TRUE
+Russia,3.59,2013,Russia (Soviet Union),365,365,TRUE
+Russia,3.39,2014,Russia (Soviet Union),365,365,TRUE
+Russia,3.31,2015,Russia (Soviet Union),365,365,TRUE
+Russia,3.24,2016,Russia (Soviet Union),365,365,TRUE
+Russia,3.17,2017,Russia (Soviet Union),365,365,TRUE
+Russia,2.94,2018,Russia (Soviet Union),365,365,TRUE
+Russia,3.11,2019,Russia (Soviet Union),365,365,TRUE
+Russia,3.31,2020,Russia (Soviet Union),365,365,TRUE
+Rwanda,3.82,2006,Rwanda,517,517,TRUE
+Rwanda,3.71,2008,Rwanda,517,517,TRUE
+Rwanda,3.25,2010,Rwanda,517,517,TRUE
+Rwanda,3.25,2011,Rwanda,517,517,TRUE
+Rwanda,3.36,2012,Rwanda,517,517,TRUE
+Rwanda,3.38,2013,Rwanda,517,517,TRUE
+Rwanda,3.25,2014,Rwanda,517,517,TRUE
+Rwanda,3.07,2015,Rwanda,517,517,TRUE
+Rwanda,3.07,2016,Rwanda,517,517,TRUE
+Rwanda,3.19,2017,Rwanda,517,517,TRUE
+Rwanda,3.35,2018,Rwanda,517,517,TRUE
+Rwanda,3.16,2019,Rwanda,517,517,TRUE
+Rwanda,3.1,2020,Rwanda,517,517,TRUE
+Saudi,1.92,2006,Saudi Arabia,670,670,TRUE
+Saudi,1.9,2008,Saudi Arabia,670,670,TRUE
+Saudi,1.84,2010,Saudi Arabia,670,670,TRUE
+Saudi,1.77,2011,Saudi Arabia,670,670,TRUE
+Saudi,1.71,2012,Saudi Arabia,670,670,TRUE
+Saudi,1.82,2013,Saudi Arabia,670,670,TRUE
+Saudi,1.82,2014,Saudi Arabia,670,670,TRUE
+Saudi,1.93,2015,Saudi Arabia,670,670,TRUE
+Saudi,1.93,2016,Saudi Arabia,670,670,TRUE
+Saudi,1.93,2017,Saudi Arabia,670,670,TRUE
+Saudi,1.93,2018,Saudi Arabia,670,670,TRUE
+Saudi,1.93,2019,Saudi Arabia,670,670,TRUE
+Saudi,2.08,2020,Saudi Arabia,670,670,TRUE
+Senegal,5.37,2006,Senegal,433,433,TRUE
+Senegal,5.37,2008,Senegal,433,433,TRUE
+Senegal,5.27,2010,Senegal,433,433,TRUE
+Senegal,5.51,2011,Senegal,433,433,TRUE
+Senegal,6.09,2012,Senegal,433,433,TRUE
+Senegal,6.15,2013,Senegal,433,433,TRUE
+Senegal,6.15,2014,Senegal,433,433,TRUE
+Senegal,6.08,2015,Senegal,433,433,TRUE
+Senegal,6.21,2016,Senegal,433,433,TRUE
+Senegal,6.15,2017,Senegal,433,433,TRUE
+Senegal,6.15,2018,Senegal,433,433,TRUE
+Senegal,5.81,2019,Senegal,433,433,TRUE
+Senegal,5.67,2020,Senegal,433,433,TRUE
+Serbia,6.62,2006,Serbia,340,345,TRUE
+Serbia,6.49,2008,Serbia,340,345,TRUE
+Serbia,6.33,2010,Serbia,340,345,TRUE
+Serbia,6.33,2011,Serbia,340,345,TRUE
+Serbia,6.33,2012,Serbia,340,345,TRUE
+Serbia,6.67,2013,Serbia,340,345,TRUE
+Serbia,6.71,2014,Serbia,340,345,TRUE
+Serbia,6.71,2015,Serbia,340,345,TRUE
+Serbia,6.57,2016,Serbia,340,345,TRUE
+Serbia,6.41,2017,Serbia,340,345,TRUE
+Serbia,6.41,2018,Serbia,340,345,TRUE
+Serbia,6.41,2019,Serbia,340,345,TRUE
+Serbia,6.22,2020,Serbia,340,345,TRUE
+Sierra Leone,3.57,2006,Sierra Leone,451,451,TRUE
+Sierra Leone,4.11,2008,Sierra Leone,451,451,TRUE
+Sierra Leone,4.51,2010,Sierra Leone,451,451,TRUE
+Sierra Leone,4.51,2011,Sierra Leone,451,451,TRUE
+Sierra Leone,4.71,2012,Sierra Leone,451,451,TRUE
+Sierra Leone,4.64,2013,Sierra Leone,451,451,TRUE
+Sierra Leone,4.56,2014,Sierra Leone,451,451,TRUE
+Sierra Leone,4.55,2015,Sierra Leone,451,451,TRUE
+Sierra Leone,4.55,2016,Sierra Leone,451,451,TRUE
+Sierra Leone,4.66,2017,Sierra Leone,451,451,TRUE
+Sierra Leone,4.66,2018,Sierra Leone,451,451,TRUE
+Sierra Leone,4.86,2019,Sierra Leone,451,451,TRUE
+Sierra Leone,4.86,2020,Sierra Leone,451,451,TRUE
+Singapore,5.89,2006,Singapore,830,830,TRUE
+Singapore,5.89,2008,Singapore,830,830,TRUE
+Singapore,5.89,2010,Singapore,830,830,TRUE
+Singapore,5.89,2011,Singapore,830,830,TRUE
+Singapore,5.88,2012,Singapore,830,830,TRUE
+Singapore,5.92,2013,Singapore,830,830,TRUE
+Singapore,6.03,2014,Singapore,830,830,TRUE
+Singapore,6.14,2015,Singapore,830,830,TRUE
+Singapore,6.38,2016,Singapore,830,830,TRUE
+Singapore,6.32,2017,Singapore,830,830,TRUE
+Singapore,6.38,2018,Singapore,830,830,TRUE
+Singapore,6.02,2019,Singapore,830,830,TRUE
+Singapore,6.03,2020,Singapore,830,830,TRUE
+Slovakia,7.4,2006,Slovakia,317,317,TRUE
+Slovakia,7.33,2008,Slovakia,317,317,TRUE
+Slovakia,7.35,2010,Slovakia,317,317,TRUE
+Slovakia,7.35,2011,Slovakia,317,317,TRUE
+Slovakia,7.35,2012,Slovakia,317,317,TRUE
+Slovakia,7.35,2013,Slovakia,317,317,TRUE
+Slovakia,7.35,2014,Slovakia,317,317,TRUE
+Slovakia,7.29,2015,Slovakia,317,317,TRUE
+Slovakia,7.29,2016,Slovakia,317,317,TRUE
+Slovakia,7.16,2017,Slovakia,317,317,TRUE
+Slovakia,7.1,2018,Slovakia,317,317,TRUE
+Slovakia,7.17,2019,Slovakia,317,317,TRUE
+Slovakia,6.97,2020,Slovakia,317,317,TRUE
+Slovenia,7.96,2006,Slovenia,349,349,TRUE
+Slovenia,7.96,2008,Slovenia,349,349,TRUE
+Slovenia,7.69,2010,Slovenia,349,349,TRUE
+Slovenia,7.76,2011,Slovenia,349,349,TRUE
+Slovenia,7.88,2012,Slovenia,349,349,TRUE
+Slovenia,7.88,2013,Slovenia,349,349,TRUE
+Slovenia,7.57,2014,Slovenia,349,349,TRUE
+Slovenia,7.57,2015,Slovenia,349,349,TRUE
+Slovenia,7.51,2016,Slovenia,349,349,TRUE
+Slovenia,7.5,2017,Slovenia,349,349,TRUE
+Slovenia,7.5,2018,Slovenia,349,349,TRUE
+Slovenia,7.5,2019,Slovenia,349,349,TRUE
+Slovenia,7.54,2020,Slovenia,349,349,TRUE
+South Africa,7.91,2006,South Africa,560,560,TRUE
+South Africa,7.91,2008,South Africa,560,560,TRUE
+South Africa,7.79,2010,South Africa,560,560,TRUE
+South Africa,7.79,2011,South Africa,560,560,TRUE
+South Africa,7.79,2012,South Africa,560,560,TRUE
+South Africa,7.9,2013,South Africa,560,560,TRUE
+South Africa,7.82,2014,South Africa,560,560,TRUE
+South Africa,7.56,2015,South Africa,560,560,TRUE
+South Africa,7.41,2016,South Africa,560,560,TRUE
+South Africa,7.24,2017,South Africa,560,560,TRUE
+South Africa,7.24,2018,South Africa,560,560,TRUE
+South Africa,7.24,2019,South Africa,560,560,TRUE
+South Africa,7.05,2020,South Africa,560,560,TRUE
+Spain,8.34,2006,Spain,230,230,TRUE
+Spain,8.45,2008,Spain,230,230,TRUE
+Spain,8.16,2010,Spain,230,230,TRUE
+Spain,8.02,2011,Spain,230,230,TRUE
+Spain,8.02,2012,Spain,230,230,TRUE
+Spain,8.02,2013,Spain,230,230,TRUE
+Spain,8.05,2014,Spain,230,230,TRUE
+Spain,8.3,2015,Spain,230,230,TRUE
+Spain,8.3,2016,Spain,230,230,TRUE
+Spain,8.08,2017,Spain,230,230,TRUE
+Spain,8.08,2018,Spain,230,230,TRUE
+Spain,8.18,2019,Spain,230,230,TRUE
+Spain,8.12,2020,Spain,230,230,TRUE
+Sri Lanka,6.58,2006,Sri Lanka (Ceylon),780,780,TRUE
+Sri Lanka,6.61,2008,Sri Lanka (Ceylon),780,780,TRUE
+Sri Lanka,6.64,2010,Sri Lanka (Ceylon),780,780,TRUE
+Sri Lanka,6.58,2011,Sri Lanka (Ceylon),780,780,TRUE
+Sri Lanka,5.75,2012,Sri Lanka (Ceylon),780,780,TRUE
+Sri Lanka,5.69,2013,Sri Lanka (Ceylon),780,780,TRUE
+Sri Lanka,5.69,2014,Sri Lanka (Ceylon),780,780,TRUE
+Sri Lanka,6.42,2015,Sri Lanka (Ceylon),780,780,TRUE
+Sri Lanka,6.48,2016,Sri Lanka (Ceylon),780,780,TRUE
+Sri Lanka,6.48,2017,Sri Lanka (Ceylon),780,780,TRUE
+Sri Lanka,6.19,2018,Sri Lanka (Ceylon),780,780,TRUE
+Sri Lanka,6.27,2019,Sri Lanka (Ceylon),780,780,TRUE
+Sri Lanka,6.14,2020,Sri Lanka (Ceylon),780,780,TRUE
+Sudan,2.9,2006,Sudan,625,625,TRUE
+Sudan,2.81,2008,Sudan,625,625,TRUE
+Sudan,2.42,2010,Sudan,625,625,TRUE
+Sudan,2.38,2011,Sudan,625,625,TRUE
+Sudan,2.38,2012,Sudan,625,625,TRUE
+Sudan,2.54,2013,Sudan,625,625,TRUE
+Sudan,2.54,2014,Sudan,625,625,TRUE
+Sudan,2.37,2015,Sudan,625,625,TRUE
+Sudan,2.37,2016,Sudan,625,625,TRUE
+Sudan,2.15,2017,Sudan,625,625,TRUE
+Sudan,2.15,2018,Sudan,625,625,TRUE
+Sudan,2.7,2019,Sudan,625,625,TRUE
+Sudan,2.54,2020,Sudan,625,625,TRUE
+Suriname,6.52,2006,Surinam,115,115,TRUE
+Suriname,6.58,2008,Surinam,115,115,TRUE
+Suriname,6.65,2010,Surinam,115,115,TRUE
+Suriname,6.65,2011,Surinam,115,115,TRUE
+Suriname,6.65,2012,Surinam,115,115,TRUE
+Suriname,6.77,2013,Surinam,115,115,TRUE
+Suriname,6.77,2014,Surinam,115,115,TRUE
+Suriname,6.77,2015,Surinam,115,115,TRUE
+Suriname,6.77,2016,Surinam,115,115,TRUE
+Suriname,6.76,2017,Surinam,115,115,TRUE
+Suriname,6.98,2018,Surinam,115,115,TRUE
+Suriname,6.98,2019,Surinam,115,115,TRUE
+Suriname,6.82,2020,Surinam,115,115,TRUE
+eSwatini,2.93,2006,Swaziland,572,572,TRUE
+eSwatini,3.04,2008,Swaziland,572,572,TRUE
+eSwatini,2.9,2010,Swaziland,572,572,TRUE
+eSwatini,3.26,2011,Swaziland,572,572,TRUE
+eSwatini,3.2,2012,Swaziland,572,572,TRUE
+eSwatini,3.2,2013,Swaziland,572,572,TRUE
+eSwatini,3.09,2014,Swaziland,572,572,TRUE
+eSwatini,3.09,2015,Swaziland,572,572,TRUE
+eSwatini,3.03,2016,Swaziland,572,572,TRUE
+eSwatini,3.03,2017,Swaziland,572,572,TRUE
+eSwatini,3.03,2018,Swaziland,572,572,TRUE
+eSwatini,3.14,2019,Swaziland,572,572,TRUE
+eSwatini,3.08,2020,Swaziland,572,572,TRUE
+Sweden,9.88,2006,Sweden,380,380,TRUE
+Sweden,9.88,2008,Sweden,380,380,TRUE
+Sweden,9.5,2010,Sweden,380,380,TRUE
+Sweden,9.5,2011,Sweden,380,380,TRUE
+Sweden,9.73,2012,Sweden,380,380,TRUE
+Sweden,9.73,2013,Sweden,380,380,TRUE
+Sweden,9.73,2014,Sweden,380,380,TRUE
+Sweden,9.45,2015,Sweden,380,380,TRUE
+Sweden,9.39,2016,Sweden,380,380,TRUE
+Sweden,9.39,2017,Sweden,380,380,TRUE
+Sweden,9.39,2018,Sweden,380,380,TRUE
+Sweden,9.39,2019,Sweden,380,380,TRUE
+Sweden,9.26,2020,Sweden,380,380,TRUE
+Switzerland,9.02,2006,Switzerland,225,225,TRUE
+Switzerland,9.15,2008,Switzerland,225,225,TRUE
+Switzerland,9.09,2010,Switzerland,225,225,TRUE
+Switzerland,9.09,2011,Switzerland,225,225,TRUE
+Switzerland,9.09,2012,Switzerland,225,225,TRUE
+Switzerland,9.09,2013,Switzerland,225,225,TRUE
+Switzerland,9.09,2014,Switzerland,225,225,TRUE
+Switzerland,9.09,2015,Switzerland,225,225,TRUE
+Switzerland,9.09,2016,Switzerland,225,225,TRUE
+Switzerland,9.03,2017,Switzerland,225,225,TRUE
+Switzerland,9.03,2018,Switzerland,225,225,TRUE
+Switzerland,9.03,2019,Switzerland,225,225,TRUE
+Switzerland,8.83,2020,Switzerland,225,225,TRUE
+Syria,2.36,2006,Syria,652,652,TRUE
+Syria,2.18,2008,Syria,652,652,TRUE
+Syria,2.31,2010,Syria,652,652,TRUE
+Syria,1.99,2011,Syria,652,652,TRUE
+Syria,1.63,2012,Syria,652,652,TRUE
+Syria,1.86,2013,Syria,652,652,TRUE
+Syria,1.74,2014,Syria,652,652,TRUE
+Syria,1.43,2015,Syria,652,652,TRUE
+Syria,1.43,2016,Syria,652,652,TRUE
+Syria,1.43,2017,Syria,652,652,TRUE
+Syria,1.43,2018,Syria,652,652,TRUE
+Syria,1.43,2019,Syria,652,652,TRUE
+Syria,1.43,2020,Syria,652,652,TRUE
+Taiwan,7.82,2006,Taiwan,713,713,TRUE
+Taiwan,7.82,2008,Taiwan,713,713,TRUE
+Taiwan,7.52,2010,Taiwan,713,713,TRUE
+Taiwan,7.46,2011,Taiwan,713,713,TRUE
+Taiwan,7.57,2012,Taiwan,713,713,TRUE
+Taiwan,7.57,2013,Taiwan,713,713,TRUE
+Taiwan,7.65,2014,Taiwan,713,713,TRUE
+Taiwan,7.83,2015,Taiwan,713,713,TRUE
+Taiwan,7.79,2016,Taiwan,713,713,TRUE
+Taiwan,7.73,2017,Taiwan,713,713,TRUE
+Taiwan,7.73,2018,Taiwan,713,713,TRUE
+Taiwan,7.73,2019,Taiwan,713,713,TRUE
+Taiwan,8.94,2020,Taiwan,713,713,TRUE
+Tajikistan,2.45,2006,Tajikistan,702,702,TRUE
+Tajikistan,2.45,2008,Tajikistan,702,702,TRUE
+Tajikistan,2.51,2010,Tajikistan,702,702,TRUE
+Tajikistan,2.51,2011,Tajikistan,702,702,TRUE
+Tajikistan,2.51,2012,Tajikistan,702,702,TRUE
+Tajikistan,2.51,2013,Tajikistan,702,702,TRUE
+Tajikistan,2.37,2014,Tajikistan,702,702,TRUE
+Tajikistan,1.95,2015,Tajikistan,702,702,TRUE
+Tajikistan,1.89,2016,Tajikistan,702,702,TRUE
+Tajikistan,1.93,2017,Tajikistan,702,702,TRUE
+Tajikistan,1.93,2018,Tajikistan,702,702,TRUE
+Tajikistan,1.93,2019,Tajikistan,702,702,TRUE
+Tajikistan,1.94,2020,Tajikistan,702,702,TRUE
+Tanzania,5.18,2006,Tanzania/Tanganyika,510,510,TRUE
+Tanzania,5.28,2008,Tanzania/Tanganyika,510,510,TRUE
+Tanzania,5.64,2010,Tanzania/Tanganyika,510,510,TRUE
+Tanzania,5.64,2011,Tanzania/Tanganyika,510,510,TRUE
+Tanzania,5.88,2012,Tanzania/Tanganyika,510,510,TRUE
+Tanzania,5.77,2013,Tanzania/Tanganyika,510,510,TRUE
+Tanzania,5.77,2014,Tanzania/Tanganyika,510,510,TRUE
+Tanzania,5.58,2015,Tanzania/Tanganyika,510,510,TRUE
+Tanzania,5.76,2016,Tanzania/Tanganyika,510,510,TRUE
+Tanzania,5.47,2017,Tanzania/Tanganyika,510,510,TRUE
+Tanzania,5.41,2018,Tanzania/Tanganyika,510,510,TRUE
+Tanzania,5.16,2019,Tanzania/Tanganyika,510,510,TRUE
+Tanzania,5.1,2020,Tanzania/Tanganyika,510,510,TRUE
+Thailand,5.67,2006,Thailand,800,800,TRUE
+Thailand,6.81,2008,Thailand,800,800,TRUE
+Thailand,6.55,2010,Thailand,800,800,TRUE
+Thailand,6.55,2011,Thailand,800,800,TRUE
+Thailand,6.55,2012,Thailand,800,800,TRUE
+Thailand,6.25,2013,Thailand,800,800,TRUE
+Thailand,5.39,2014,Thailand,800,800,TRUE
+Thailand,5.09,2015,Thailand,800,800,TRUE
+Thailand,4.92,2016,Thailand,800,800,TRUE
+Thailand,4.63,2017,Thailand,800,800,TRUE
+Thailand,4.63,2018,Thailand,800,800,TRUE
+Thailand,6.32,2019,Thailand,800,800,TRUE
+Thailand,6.04,2020,Thailand,800,800,TRUE
+Togo,1.75,2006,Togo,461,461,TRUE
+Togo,2.43,2008,Togo,461,461,TRUE
+Togo,3.45,2010,Togo,461,461,TRUE
+Togo,3.45,2011,Togo,461,461,TRUE
+Togo,3.45,2012,Togo,461,461,TRUE
+Togo,3.45,2013,Togo,461,461,TRUE
+Togo,3.45,2014,Togo,461,461,TRUE
+Togo,3.41,2015,Togo,461,461,TRUE
+Togo,3.32,2016,Togo,461,461,TRUE
+Togo,3.05,2017,Togo,461,461,TRUE
+Togo,3.1,2018,Togo,461,461,TRUE
+Togo,3.3,2019,Togo,461,461,TRUE
+Togo,2.8,2020,Togo,461,461,TRUE
+Trinidad and Tobago,7.18,2006,Trinidad and Tobago,52,52,TRUE
+Trinidad and Tobago,7.21,2008,Trinidad and Tobago,52,52,TRUE
+Trinidad and Tobago,7.16,2010,Trinidad and Tobago,52,52,TRUE
+Trinidad and Tobago,7.16,2011,Trinidad and Tobago,52,52,TRUE
+Trinidad and Tobago,6.99,2012,Trinidad and Tobago,52,52,TRUE
+Trinidad and Tobago,6.99,2013,Trinidad and Tobago,52,52,TRUE
+Trinidad and Tobago,6.99,2014,Trinidad and Tobago,52,52,TRUE
+Trinidad and Tobago,7.1,2015,Trinidad and Tobago,52,52,TRUE
+Trinidad and Tobago,7.1,2016,Trinidad and Tobago,52,52,TRUE
+Trinidad and Tobago,7.04,2017,Trinidad and Tobago,52,52,TRUE
+Trinidad and Tobago,7.16,2018,Trinidad and Tobago,52,52,TRUE
+Trinidad and Tobago,7.16,2019,Trinidad and Tobago,52,52,TRUE
+Trinidad and Tobago,7.16,2020,Trinidad and Tobago,52,52,TRUE
+Tunisia,3.06,2006,Tunisia,616,616,TRUE
+Tunisia,2.96,2008,Tunisia,616,616,TRUE
+Tunisia,2.79,2010,Tunisia,616,616,TRUE
+Tunisia,5.53,2011,Tunisia,616,616,TRUE
+Tunisia,5.67,2012,Tunisia,616,616,TRUE
+Tunisia,5.76,2013,Tunisia,616,616,TRUE
+Tunisia,6.31,2014,Tunisia,616,616,TRUE
+Tunisia,6.72,2015,Tunisia,616,616,TRUE
+Tunisia,6.4,2016,Tunisia,616,616,TRUE
+Tunisia,6.32,2017,Tunisia,616,616,TRUE
+Tunisia,6.41,2018,Tunisia,616,616,TRUE
+Tunisia,6.72,2019,Tunisia,616,616,TRUE
+Tunisia,6.59,2020,Tunisia,616,616,TRUE
+Turkey,5.7,2006,Turkey (Ottoman Empire),640,640,TRUE
+Turkey,5.69,2008,Turkey (Ottoman Empire),640,640,TRUE
+Turkey,5.73,2010,Turkey (Ottoman Empire),640,640,TRUE
+Turkey,5.73,2011,Turkey (Ottoman Empire),640,640,TRUE
+Turkey,5.76,2012,Turkey (Ottoman Empire),640,640,TRUE
+Turkey,5.63,2013,Turkey (Ottoman Empire),640,640,TRUE
+Turkey,5.12,2014,Turkey (Ottoman Empire),640,640,TRUE
+Turkey,5.12,2015,Turkey (Ottoman Empire),640,640,TRUE
+Turkey,5.04,2016,Turkey (Ottoman Empire),640,640,TRUE
+Turkey,4.88,2017,Turkey (Ottoman Empire),640,640,TRUE
+Turkey,4.37,2018,Turkey (Ottoman Empire),640,640,TRUE
+Turkey,4.09,2019,Turkey (Ottoman Empire),640,640,TRUE
+Turkey,4.48,2020,Turkey (Ottoman Empire),640,640,TRUE
+Turkmenistan,1.83,2006,Turkmenistan,701,701,TRUE
+Turkmenistan,1.72,2008,Turkmenistan,701,701,TRUE
+Turkmenistan,1.72,2010,Turkmenistan,701,701,TRUE
+Turkmenistan,1.72,2011,Turkmenistan,701,701,TRUE
+Turkmenistan,1.72,2012,Turkmenistan,701,701,TRUE
+Turkmenistan,1.72,2013,Turkmenistan,701,701,TRUE
+Turkmenistan,1.83,2014,Turkmenistan,701,701,TRUE
+Turkmenistan,1.83,2015,Turkmenistan,701,701,TRUE
+Turkmenistan,1.83,2016,Turkmenistan,701,701,TRUE
+Turkmenistan,1.72,2017,Turkmenistan,701,701,TRUE
+Turkmenistan,1.72,2018,Turkmenistan,701,701,TRUE
+Turkmenistan,1.72,2019,Turkmenistan,701,701,TRUE
+Turkmenistan,1.72,2020,Turkmenistan,701,701,TRUE
+Uganda,5.14,2006,Uganda,500,500,TRUE
+Uganda,5.03,2008,Uganda,500,500,TRUE
+Uganda,5.05,2010,Uganda,500,500,TRUE
+Uganda,5.13,2011,Uganda,500,500,TRUE
+Uganda,5.16,2012,Uganda,500,500,TRUE
+Uganda,5.22,2013,Uganda,500,500,TRUE
+Uganda,5.22,2014,Uganda,500,500,TRUE
+Uganda,5.22,2015,Uganda,500,500,TRUE
+Uganda,5.26,2016,Uganda,500,500,TRUE
+Uganda,5.09,2017,Uganda,500,500,TRUE
+Uganda,5.2,2018,Uganda,500,500,TRUE
+Uganda,5.02,2019,Uganda,500,500,TRUE
+Uganda,4.94,2020,Uganda,500,500,TRUE
+Ukraine,6.94,2006,Ukraine,369,369,TRUE
+Ukraine,6.94,2008,Ukraine,369,369,TRUE
+Ukraine,6.3,2010,Ukraine,369,369,TRUE
+Ukraine,5.94,2011,Ukraine,369,369,TRUE
+Ukraine,5.91,2012,Ukraine,369,369,TRUE
+Ukraine,5.84,2013,Ukraine,369,369,TRUE
+Ukraine,5.42,2014,Ukraine,369,369,TRUE
+Ukraine,5.7,2015,Ukraine,369,369,TRUE
+Ukraine,5.7,2016,Ukraine,369,369,TRUE
+Ukraine,5.69,2017,Ukraine,369,369,TRUE
+Ukraine,5.69,2018,Ukraine,369,369,TRUE
+Ukraine,5.9,2019,Ukraine,369,369,TRUE
+Ukraine,5.81,2020,Ukraine,369,369,TRUE
+UAE,2.42,2006,United Arab Emirates,696,696,TRUE
+UAE,2.6,2008,United Arab Emirates,696,696,TRUE
+UAE,2.52,2010,United Arab Emirates,696,696,TRUE
+UAE,2.58,2011,United Arab Emirates,696,696,TRUE
+UAE,2.58,2012,United Arab Emirates,696,696,TRUE
+UAE,2.52,2013,United Arab Emirates,696,696,TRUE
+UAE,2.64,2014,United Arab Emirates,696,696,TRUE
+UAE,2.75,2015,United Arab Emirates,696,696,TRUE
+UAE,2.75,2016,United Arab Emirates,696,696,TRUE
+UAE,2.69,2017,United Arab Emirates,696,696,TRUE
+UAE,2.76,2018,United Arab Emirates,696,696,TRUE
+UAE,2.76,2019,United Arab Emirates,696,696,TRUE
+UAE,2.7,2020,United Arab Emirates,696,696,TRUE
+UK,8.08,2006,United Kingdom,200,200,TRUE
+UK,8.15,2008,United Kingdom,200,200,TRUE
+UK,8.16,2010,United Kingdom,200,200,TRUE
+UK,8.16,2011,United Kingdom,200,200,TRUE
+UK,8.21,2012,United Kingdom,200,200,TRUE
+UK,8.31,2013,United Kingdom,200,200,TRUE
+UK,8.31,2014,United Kingdom,200,200,TRUE
+UK,8.31,2015,United Kingdom,200,200,TRUE
+UK,8.36,2016,United Kingdom,200,200,TRUE
+UK,8.53,2017,United Kingdom,200,200,TRUE
+UK,8.53,2018,United Kingdom,200,200,TRUE
+UK,8.52,2019,United Kingdom,200,200,TRUE
+UK,8.54,2020,United Kingdom,200,200,TRUE
+US,8.22,2006,United States of America,2,2,TRUE
+US,8.22,2008,United States of America,2,2,TRUE
+US,8.18,2010,United States of America,2,2,TRUE
+US,8.11,2011,United States of America,2,2,TRUE
+US,8.11,2012,United States of America,2,2,TRUE
+US,8.11,2013,United States of America,2,2,TRUE
+US,8.11,2014,United States of America,2,2,TRUE
+US,8.05,2015,United States of America,2,2,TRUE
+US,7.98,2016,United States of America,2,2,TRUE
+US,7.98,2017,United States of America,2,2,TRUE
+US,7.96,2018,United States of America,2,2,TRUE
+US,7.96,2019,United States of America,2,2,TRUE
+US,7.92,2020,United States of America,2,2,TRUE
+Uruguay,7.96,2006,Uruguay,165,165,TRUE
+Uruguay,8.08,2008,Uruguay,165,165,TRUE
+Uruguay,8.1,2010,Uruguay,165,165,TRUE
+Uruguay,8.17,2011,Uruguay,165,165,TRUE
+Uruguay,8.17,2012,Uruguay,165,165,TRUE
+Uruguay,8.17,2013,Uruguay,165,165,TRUE
+Uruguay,8.17,2014,Uruguay,165,165,TRUE
+Uruguay,8.17,2015,Uruguay,165,165,TRUE
+Uruguay,8.17,2016,Uruguay,165,165,TRUE
+Uruguay,8.12,2017,Uruguay,165,165,TRUE
+Uruguay,8.38,2018,Uruguay,165,165,TRUE
+Uruguay,8.38,2019,Uruguay,165,165,TRUE
+Uruguay,8.61,2020,Uruguay,165,165,TRUE
+Uzbekistan,1.85,2006,Uzbekistan,704,704,TRUE
+Uzbekistan,1.74,2008,Uzbekistan,704,704,TRUE
+Uzbekistan,1.74,2010,Uzbekistan,704,704,TRUE
+Uzbekistan,1.74,2011,Uzbekistan,704,704,TRUE
+Uzbekistan,1.72,2012,Uzbekistan,704,704,TRUE
+Uzbekistan,1.72,2013,Uzbekistan,704,704,TRUE
+Uzbekistan,2.45,2014,Uzbekistan,704,704,TRUE
+Uzbekistan,1.95,2015,Uzbekistan,704,704,TRUE
+Uzbekistan,1.95,2016,Uzbekistan,704,704,TRUE
+Uzbekistan,1.95,2017,Uzbekistan,704,704,TRUE
+Uzbekistan,2.01,2018,Uzbekistan,704,704,TRUE
+Uzbekistan,2.01,2019,Uzbekistan,704,704,TRUE
+Uzbekistan,2.12,2020,Uzbekistan,704,704,TRUE
+Venezuela,5.42,2006,Venezuela,101,101,TRUE
+Venezuela,5.34,2008,Venezuela,101,101,TRUE
+Venezuela,5.18,2010,Venezuela,101,101,TRUE
+Venezuela,5.08,2011,Venezuela,101,101,TRUE
+Venezuela,5.15,2012,Venezuela,101,101,TRUE
+Venezuela,5.07,2013,Venezuela,101,101,TRUE
+Venezuela,5.07,2014,Venezuela,101,101,TRUE
+Venezuela,5,2015,Venezuela,101,101,TRUE
+Venezuela,4.68,2016,Venezuela,101,101,TRUE
+Venezuela,3.87,2017,Venezuela,101,101,TRUE
+Venezuela,3.16,2018,Venezuela,101,101,TRUE
+Venezuela,2.88,2019,Venezuela,101,101,TRUE
+Venezuela,2.76,2020,Venezuela,101,101,TRUE
+Vietnam,2.75,2006,"Vietnam, Democratic Republic of",816,816,TRUE
+Vietnam,2.53,2008,"Vietnam, Democratic Republic of",816,816,TRUE
+Vietnam,2.94,2010,"Vietnam, Democratic Republic of",816,816,TRUE
+Vietnam,2.96,2011,"Vietnam, Democratic Republic of",816,816,TRUE
+Vietnam,2.89,2012,"Vietnam, Democratic Republic of",816,816,TRUE
+Vietnam,3.29,2013,"Vietnam, Democratic Republic of",816,816,TRUE
+Vietnam,3.41,2014,"Vietnam, Democratic Republic of",816,816,TRUE
+Vietnam,3.53,2015,"Vietnam, Democratic Republic of",816,816,TRUE
+Vietnam,3.38,2016,"Vietnam, Democratic Republic of",816,816,TRUE
+Vietnam,3.08,2017,"Vietnam, Democratic Republic of",816,816,TRUE
+Vietnam,3.08,2018,"Vietnam, Democratic Republic of",816,816,TRUE
+Vietnam,3.08,2019,"Vietnam, Democratic Republic of",816,816,TRUE
+Vietnam,2.94,2020,"Vietnam, Democratic Republic of",816,816,TRUE
+Yemen,2.98,2006,Yemen (Arab Republic of Yemen),678,679,TRUE
+Yemen,2.95,2008,Yemen (Arab Republic of Yemen),678,679,TRUE
+Yemen,2.64,2010,Yemen (Arab Republic of Yemen),678,679,TRUE
+Yemen,2.57,2011,Yemen (Arab Republic of Yemen),678,679,TRUE
+Yemen,3.12,2012,Yemen (Arab Republic of Yemen),678,679,TRUE
+Yemen,2.79,2013,Yemen (Arab Republic of Yemen),678,679,TRUE
+Yemen,2.79,2014,Yemen (Arab Republic of Yemen),678,679,TRUE
+Yemen,2.24,2015,Yemen (Arab Republic of Yemen),678,679,TRUE
+Yemen,2.07,2016,Yemen (Arab Republic of Yemen),678,679,TRUE
+Yemen,2.07,2017,Yemen (Arab Republic of Yemen),678,679,TRUE
+Yemen,1.95,2018,Yemen (Arab Republic of Yemen),678,679,TRUE
+Yemen,1.95,2019,Yemen (Arab Republic of Yemen),678,679,TRUE
+Yemen,1.95,2020,Yemen (Arab Republic of Yemen),678,679,TRUE
+Zambia,5.25,2006,Zambia,551,551,TRUE
+Zambia,5.25,2008,Zambia,551,551,TRUE
+Zambia,5.68,2010,Zambia,551,551,TRUE
+Zambia,6.19,2011,Zambia,551,551,TRUE
+Zambia,6.26,2012,Zambia,551,551,TRUE
+Zambia,6.26,2013,Zambia,551,551,TRUE
+Zambia,6.39,2014,Zambia,551,551,TRUE
+Zambia,6.28,2015,Zambia,551,551,TRUE
+Zambia,5.99,2016,Zambia,551,551,TRUE
+Zambia,5.68,2017,Zambia,551,551,TRUE
+Zambia,5.61,2018,Zambia,551,551,TRUE
+Zambia,5.09,2019,Zambia,551,551,TRUE
+Zambia,4.86,2020,Zambia,551,551,TRUE
+Zimbabwe,2.62,2006,Zimbabwe (Rhodesia),552,552,TRUE
+Zimbabwe,2.53,2008,Zimbabwe (Rhodesia),552,552,TRUE
+Zimbabwe,2.64,2010,Zimbabwe (Rhodesia),552,552,TRUE
+Zimbabwe,2.68,2011,Zimbabwe (Rhodesia),552,552,TRUE
+Zimbabwe,2.67,2012,Zimbabwe (Rhodesia),552,552,TRUE
+Zimbabwe,2.67,2013,Zimbabwe (Rhodesia),552,552,TRUE
+Zimbabwe,2.78,2014,Zimbabwe (Rhodesia),552,552,TRUE
+Zimbabwe,3.05,2015,Zimbabwe (Rhodesia),552,552,TRUE
+Zimbabwe,3.05,2016,Zimbabwe (Rhodesia),552,552,TRUE
+Zimbabwe,3.16,2017,Zimbabwe (Rhodesia),552,552,TRUE
+Zimbabwe,3.16,2018,Zimbabwe (Rhodesia),552,552,TRUE
+Zimbabwe,3.16,2019,Zimbabwe (Rhodesia),552,552,TRUE
+Zimbabwe,3.16,2020,Zimbabwe (Rhodesia),552,552,TRUE
